@@ -1,0 +1,42 @@
+waiting for visible state 
+element is in visible state
+waiting for visible state 
+element is in visible state
+Stay signed in prompt appeared and was handled
+waiting for visible state 
+element is in visible state
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+waiting for visible state 
+element is in visible state
+Clicked nav option with label "Vehicles"
+"At Port" column is visible.
+Model Value from table SCC12
+2025 Ascent 2.4T 7-Pass - Premium
+vinvoice Value from table S3423685
+Clicked on VIN link in first row
+Extracted VIN from modal: 4S4WMADD3S3423685
+Modal closed
+ VIN from UI: 4S4WMADD3S3423685
+Ascending values for "Window Sticker & VIN/Invoice ": [
+  'R3425759', 'S3402944',
+  'S3403068', 'S3403476',
+  'S3408528', 'S3409162',
+  'S3411401', 'S3411526',
+  'S3412616', 'S3413913'
+]
+Descending values for "Window Sticker & VIN/Invoice ": [
+  'S3425796', 'S3424717',
+  'S3424621', 'S3423995',
+  'S3423685', 'S3423456',
+  'S3422740', 'S3421924',
+  'S3421730', 'S3419474'
+]
+Downloaded pdf file saved to: C:\Users\tkukati\Downloads\SubaruAutomation\SNE-Test-Automation\test-downloads\Inventory.pdf
+Export validated for PDF: C:\Users\tkukati\Downloads\SubaruAutomation\SNE-Test-Automation\test-downloads\Inventory.pdf
+Downloaded excel file saved to: C:\Users\tkukati\Downloads\SubaruAutomation\SNE-Test-Automation\test-downloads\Inventory.xlsx
+Export validated for EXCEL: C:\Users\tkukati\Downloads\SubaruAutomation\SNE-Test-Automation\test-downloads\Inventory.xlsx
+Downloaded csv file saved to: C:\Users\tkukati\Downloads\SubaruAutomation\SNE-Test-Automation\test-downloads\Inventory.csv
+Export validated for CSV: C:\Users\tkukati\Downloads\SubaruAutomation\SNE-Test-Automation\test-downloads\Inventory.csv
+Print PDF saved for testuser@BochExotics.com
+Logged out successfully

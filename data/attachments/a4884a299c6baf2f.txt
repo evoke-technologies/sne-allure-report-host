@@ -1,0 +1,30 @@
+waiting for visible state 
+element is in visible state
+waiting for visible state 
+element is in visible state
+Stay signed in prompt appeared and was handled
+waiting for visible state 
+element is in visible state
+ Subaru logo is visible. Login successful.
+waiting for visible state 
+element is in visible state
+Welcome message: Hi Mitchell Subaru               , Good Morning!
+Clicking nav option with label "Vehicles"
+waiting for visible state 
+element is in visible state
+Clicked nav option with label "Vehicles"
+Vehicles item is displayed from breadcrumb list items
+Inventory item is displayed from breadcrumb list items
+Index: 0 | Tab: "Total Vehicles" | Count: 813 | Excluded: false
+Index: 1 | Tab: "On Lot" | Count: 38 | Excluded: false
+Adding count from tab "On Lot": 38 | Running Total: 38
+Index: 2 | Tab: "On Order" | Count: 764 | Excluded: false
+Adding count from tab "On Order": 764 | Running Total: 802
+Index: 3 | Tab: "In Transit" | Count: 34 | Excluded: false
+Adding count from tab "In Transit": 34 | Running Total: 836
+Index: 4 | Tab: "Sold Vehicles" | Count: 0 | Excluded: true
+Index: 5 | Tab: "Buy a Demo" | Count: 0 | Excluded: true
+Index: 7 | Tab: "Hold at Port" | Count: 0 | Excluded: false
+Adding count from tab "Hold at Port": 0 | Running Total: 836
+Total Vehicles Tab Count: 813
+Sum of Other Tabs : 836

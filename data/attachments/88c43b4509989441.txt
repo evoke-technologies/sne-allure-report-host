@@ -1,0 +1,2 @@
+ Failed clicking "Mark as SSLP" button: Error: No model data available for the retailer in the SSLP tab.
+    at C:\Users\tkukati\Downloads\SubaruAutomation\SNE-Test-Automation\pages\VehicleInventoryPage.js:317:11

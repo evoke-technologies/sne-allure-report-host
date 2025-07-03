@@ -1,0 +1,19 @@
+waiting for visible state 
+element is in visible state
+waiting for visible state 
+element is in visible state
+Stay signed in prompt appeared and was handled
+waiting for visible state 
+element is in visible state
+ Subaru logo is visible. Login successful.
+waiting for visible state 
+element is in visible state
+Welcome message: Hi Profile Subaru                , Good Morning!
+Clicking nav option with label "Vehicles"
+waiting for visible state 
+element is in visible state
+Clicked nav option with label "Vehicles"
+ Starting: Vehicles Page
+ Clicked on "Vehicles" link in the left nav bar.
+ Navigated to "Mark as SSLP" tab.
+No model data available for the retailer in the SSLP tab.
