@@ -1,0 +1,1 @@
+Skipping sort validation for "Window Sticker & VIN/Invoice" column because it has less than 3 rows

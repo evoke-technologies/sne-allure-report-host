@@ -1,0 +1,16 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Clicked dropdown icon at index 0
+Selected Trim option text: "SCC12 - Ascent 2.4T 7-Pass - Premium"
+Extracted Trim Code: SCC12
+Clicked Apply button for Trim filter
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: S3423456
+Row 1: S3423995
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: S3423995
+Row 1: S3423456
+"Window Sticker & VIN/Invoice" sorted descending.

@@ -1,0 +1,225 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - list:
+    - listitem:
+      - button "Navigation":
+        - img "Navigation"
+    - listitem:
+      - img "Subaru of New England"
+    - listitem:
+      - link "location icon Subaru of New England Inc Norwood, MA 02062":
+        - /url: javascript:void(0)
+        - img "location icon"
+        - paragraph: Subaru of New England Inc
+        - paragraph: Norwood, MA 02062
+  - list:
+    - listitem
+    - listitem:
+      - img "subarunet"
+    - listitem:
+      - img "subaru logo"
+    - listitem: 
+- navigation "Side Navigation":
+  - list "main navigation list":
+    - listitem "Home":
+      - img "Home"
+    - listitem "Vehicles":
+      - img "Vehicles"
+    - listitem "Allocation":
+      - img "Allocation"
+    - listitem "Parts":
+      - img "Parts"
+    - listitem "Sales":
+      - img "Sales"
+    - listitem "Boston Port":
+      - img "Boston Port"
+    - listitem "Reports":
+      - img "Reports"
+    - listitem "Admin & Finance":
+      - img "Admin & Finance"
+    - listitem "Miscellaneous":
+      - img "Miscellaneous"
+  - list "Help and Feedback list":
+    - listitem "Help":
+      - link "Help":
+        - /url: "#"
+        - img "Help"
+    - listitem "Feedback":
+      - img "Feedback"
+- region "Vehicle Inventory":
+  - heading "Vehicle Inventory" [level=1]
+  - navigation "Module Navigation":
+    - list "Module Navigation":
+      - listitem: Vehicle Inventory
+      - listitem: Vehicle Inquiry
+      - listitem: Vehicle Locator
+      - listitem: Build-A-Car
+      - listitem: Retailer Delivery Records
+      - listitem: Transfer
+      - listitem: Reports
+- navigation "Breadcrumb Navigation":
+  - list "Breadcrumb Navigation":
+    - listitem: 
+    - listitem: / Vehicle
+    - listitem: / Vehicle Inventory
+- list:
+  - listitem:
+    - tab "Total Vehicles (124)"
+  - listitem:
+    - tab "On Lot (98)"
+  - listitem:
+    - tab "On Order (6)"
+  - listitem:
+    - tab "In Transit (20)"
+  - listitem:
+    - tab "Sold Vehicles (0)"
+  - listitem:
+    - tab "Buy a Demo (0)"
+  - listitem:
+    - tab "Mark as SSLP"
+  - listitem:
+    - tab "Hold at Port (0)"
+- tabpanel:
+  - toolbar:
+    - img "Ascent"
+    - text: Ascent (2)
+    - img "BRZ"
+    - text: BRZ (0)
+    - img "Crosstrek"
+    - text: Crosstrek (0)
+    - img "Forester"
+    - text: Forester (0)
+    - img "Impreza"
+    - text: Impreza (0)
+    - img "Legacy"
+    - text: Legacy (0)
+    - img "Outback"
+    - text: Outback (0)
+    - img "Solterra"
+    - text: Solterra (0)
+    - img "WRX"
+    - text: WRX(0)
+  - list:
+    - listitem:
+      - button "Filters":
+        - img "Filter"
+        - text: Clear Filters (1)
+    - listitem:
+      - text:  1 selected
+      - combobox "multiselect"
+      - text:  
+    - listitem:
+      - text: 
+      - combobox "multiselect"
+      - text: 
+    - listitem:
+      - text: 
+      - combobox "multiselect"
+      - text: 
+    - listitem:
+      - combobox "dropdownlist":
+        - combobox "dropdownlist"
+        - text: 
+  - heading "Total Vehicles List" [level=3]
+- grid:
+  - combobox "Select page size":
+    - option "10 rows" [selected]
+    - option "25 rows"
+    - option "50 rows"
+    - option "100 rows"
+    - option "All"
+  - button "search":
+    - img "search-icon"
+  - textbox "search"
+  - button "Edit Columns":  Edit Columns
+  - button "Export":  Export
+  - button "Print":  Print
+  - rowgroup:
+    - row "Window Sticker & VIN/Invoice Model Color Edit Stock# Retailer ETA Allocation MSRP PNVW Vehicle Status Sold Status Actions":
+      - columnheader "Window Sticker & VIN/Invoice"
+      - columnheader "Model"
+      - columnheader "Color"
+      - columnheader "Edit Stock#"
+      - columnheader "Retailer ETA"
+      - columnheader "Allocation"
+      - columnheader "MSRP"
+      - columnheader "PNVW"
+      - columnheader "Vehicle Status"
+      - columnheader "Sold Status"
+      - columnheader "Actions"
+  - rowgroup:
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: S3423995
+      - gridcell "is template cell column header Model": SCC12 2025 Ascent 2.4T 7-Pass - Premium
+      - gridcell "is template cell column header Color": MGM Magnetite Gray Metallic
+      - gridcell "is template cell column header Edit Stock#":
+        - text: DEMO
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1268"
+      - gridcell "is template cell column header MSRP": $44,550.00
+      - gridcell "is template cell column header PNVW": $2,806.00
+      - gridcell "is template cell column header Vehicle Status": On Lot
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: S3423456
+      - gridcell "is template cell column header Model": SCC12 2025 Ascent 2.4T 7-Pass - Premium
+      - gridcell "is template cell column header Color": CP2 Cosmic Blue Pearl
+      - gridcell "is template cell column header Edit Stock#":
+        - text: DEMO
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1268"
+      - gridcell "is template cell column header MSRP": $44,550.00
+      - gridcell "is template cell column header PNVW": $2,806.00
+      - gridcell "is template cell column header Vehicle Status": On Lot
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+  - navigation:
+    - button: 
+    - button: 
+    - link "Page 1 of 1 Pages":
+      - /url: "#"
+      - text: "1"
+    - button: 
+    - button: 
+  - text: 1 of 1 pages (2 items)
+  - textbox "clipboard"
+- navigation "Side Navigation":
+  - list "main navigation list":
+    - listitem "Home":
+      - img "Home"
+    - listitem "Vehicles":
+      - img "Vehicles"
+    - listitem "Allocation":
+      - img "Allocation"
+    - listitem "Parts":
+      - img "Parts"
+    - listitem "Sales":
+      - img "Sales"
+    - listitem "Boston Port":
+      - img "Boston Port"
+    - listitem "Reports":
+      - img "Reports"
+    - listitem "Admin & Finance":
+      - img "Admin & Finance"
+    - listitem "Miscellaneous":
+      - img "Miscellaneous"
+  - list "Help and Feedback list":
+    - listitem "Help":
+      - link "Help":
+        - /url: "#"
+        - img "Help"
+    - listitem "Feedback":
+      - img "Feedback"
+- tooltip "Window Sticker & VIN/Invoice"
+```

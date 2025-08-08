@@ -1,0 +1,20 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (67)" with count: 67
+Clicked dropdown icon at index 3
+Selected Trim option text: "SCC12 - Ascent 2.4T 7-Pass - Premium"
+Extracted Trim Code: SCC12
+Clicked Apply button for Trim filter
+inside active model info method, model: Ascent count: 3
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 3
+Color popup is now visible
+Selected Color: SCC12 - Crystal Black Silica
+Color filter applied
+inside active model info method, model: Ascent count: 1
+Model count changed: 3 → undefined
+Clear Filters button hidden or reset after clearing filters
+All filters cleared successfully

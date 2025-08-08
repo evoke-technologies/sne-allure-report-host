@@ -1,0 +1,62 @@
+Logout failed: locator.click: Test ended.
+Call log:
+  - waiting for locator('li.user > div.logout-btn > button[aria-label="Logout"]')
+    - locator resolved to <button type="button" aria-label="Logout" _ngcontent-ng-c2077276750="" class="g-custom-btn fs-xs mt-2">Logout</button>
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\LoginPage.js:95:21 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@120',
+    location: {
+      file: 'D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\LoginPage.js',
+      line: 95,
+      column: 21
+    },
+    category: 'pw:api',
+    title: `Click locator('li.user > div.logout-btn > button[aria-label="Logout"]')`,
+    apiName: 'locator.click',
+    params: {
+      selector: 'li.user > div.logout-btn > button[aria-label="Logout"]',
+      strict: true,
+      timeout: 0
+    },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@120',
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1754647115011,
+    error: {
+      message: 'Error: locator.click: Test ended.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('li.user > div.logout-btn > button[aria-label="Logout"]')\x1B[22m\n` +
+        '\x1B[2m    - locator resolved to <button type="button" aria-label="Logout" _ngcontent-ng-c2077276750="" class="g-custom-btn fs-xs mt-2">Logout</button>\x1B[22m\n' +
+        '\x1B[2m  - attempting click action\x1B[22m\n' +
+        '\x1B[2m    - waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m    - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m    - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m    - done scrolling\x1B[22m\n',
+      stack: 'Error: locator.click: Test ended.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('li.user > div.logout-btn > button[aria-label="Logout"]')\x1B[22m\n` +
+        '\x1B[2m    - locator resolved to <button type="button" aria-label="Logout" _ngcontent-ng-c2077276750="" class="g-custom-btn fs-xs mt-2">Logout</button>\x1B[22m\n' +
+        '\x1B[2m  - attempting click action\x1B[22m\n' +
+        '\x1B[2m    - waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m    - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m    - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m    - done scrolling\x1B[22m\n' +
+        '\n' +
+        '    at D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\LoginPage.js:95:21',
+      cause: undefined
+    }
+  }
+}

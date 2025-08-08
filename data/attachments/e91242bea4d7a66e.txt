@@ -1,0 +1,13 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Mark as SSLP " with count: 0
+inside active model info method, model: Crosstrek count: 6
+Active model name: Crosstrek
+option: SRA03 - Crosstrek 5D 2.0L CVT
+option: SRB13 - Crosstrek 5D 2.5L CVT - Premium
+option: SRB14 - Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+option: SRI23 - Crosstrek 5D 2.5L CVT - Wilderness w/ Power MR
+ All Trim dropdown options contain "Crosstrek"
+Logged out successfully

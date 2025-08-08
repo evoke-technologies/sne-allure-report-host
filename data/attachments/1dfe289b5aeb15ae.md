@@ -1,0 +1,309 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - list:
+    - listitem:
+      - button "Navigation":
+        - img "Navigation"
+    - listitem:
+      - img "Subaru of New England"
+    - listitem:
+      - link "location icon Profile Subaru Conway, NH 03818":
+        - /url: javascript:void(0)
+        - img "location icon"
+        - paragraph: Profile Subaru
+        - paragraph: Conway, NH 03818
+  - list:
+    - listitem
+    - listitem:
+      - img "subarunet"
+    - listitem:
+      - img "subaru logo"
+    - listitem: 
+- navigation "Side Navigation":
+  - list "main navigation list":
+    - listitem "Home":
+      - img "Home"
+    - listitem "Vehicles":
+      - img "Vehicles"
+    - listitem "Allocation":
+      - img "Allocation"
+    - listitem "Parts":
+      - img "Parts"
+    - listitem "Sales":
+      - img "Sales"
+    - listitem "Boston Port":
+      - img "Boston Port"
+    - listitem "Reports":
+      - img "Reports"
+    - listitem "Admin & Finance":
+      - img "Admin & Finance"
+    - listitem "Miscellaneous":
+      - img "Miscellaneous"
+  - list "Help and Feedback list":
+    - listitem "Help":
+      - link "Help":
+        - /url: "#"
+        - img "Help"
+    - listitem "Feedback":
+      - img "Feedback"
+- region "Vehicle Inventory":
+  - heading "Vehicle Inventory" [level=1]
+  - navigation "Module Navigation":
+    - list "Module Navigation":
+      - listitem: Vehicle Inventory
+      - listitem: Vehicle Inquiry
+      - listitem: Vehicle Locator
+      - listitem: Build-A-Car
+      - listitem: Retailer Delivery Records
+      - listitem: Transfer
+      - listitem: Reports
+- navigation "Breadcrumb Navigation":
+  - list "Breadcrumb Navigation":
+    - listitem: 
+    - listitem: / Vehicle
+    - listitem: / Vehicle Inventory
+- list:
+  - listitem:
+    - tab "Total Vehicles (108)"
+  - listitem:
+    - tab "On Lot (23)"
+  - listitem:
+    - tab "On Order (49)"
+  - listitem:
+    - tab "In Transit (36)"
+  - listitem:
+    - tab "Sold Vehicles (1)"
+  - listitem:
+    - tab "Buy a Demo (0)"
+  - listitem:
+    - tab "Mark as SSLP"
+  - listitem:
+    - tab "Hold at Port (0)"
+- tabpanel:
+  - toolbar:
+    - img "Ascent"
+    - text: Ascent (2)
+    - img "BRZ"
+    - text: BRZ (0)
+    - img "Crosstrek"
+    - text: Crosstrek (17)
+    - img "Forester"
+    - text: Forester (10)
+    - img "Impreza"
+    - text: Impreza (1)
+    - img "Legacy"
+    - text: Legacy (0)
+    - img "Outback"
+    - text: Outback (6)
+    - img "Solterra"
+    - text: Solterra (0)
+    - img "WRX"
+    - text: WRX(0)
+  - list:
+    - listitem:
+      - button "Filters":
+        - img "Filter"
+        - text: Filters
+    - listitem:
+      - text: 
+      - combobox "multiselect"
+      - text: 
+    - listitem:
+      - text: 
+      - combobox "multiselect"
+      - text: 
+    - listitem:
+      - text: 
+      - combobox "multiselect"
+      - text: 
+    - listitem:
+      - combobox "dropdownlist":
+        - combobox "dropdownlist"
+        - text: 
+  - heading "In Transit Vehicle List" [level=3]
+- grid:
+  - combobox "Select page size":
+    - option "10 rows"
+    - option "25 rows"
+    - option "50 rows"
+    - option "100 rows"
+    - option "All" [selected]
+  - button "search":
+    - img "search-icon"
+  - textbox "search"
+  - button "Edit Columns":  Edit Columns
+  - button "Export":  Export
+  - button "Print":  Print
+  - rowgroup:
+    - row "Window Sticker & VIN/Invoice Model Color Edit Stock# Retailer ETA Allocation MSRP PNVW Vehicle Status Sold Status Actions":
+      - columnheader "Window Sticker & VIN/Invoice"
+      - columnheader "Model"
+      - columnheader "Color"
+      - columnheader "Edit Stock#"
+      - columnheader "Retailer ETA"
+      - columnheader "Allocation"
+      - columnheader "MSRP"
+      - columnheader "PNVW"
+      - columnheader "Vehicle Status"
+      - columnheader "Sold Status"
+      - columnheader "Actions"
+  - rowgroup:
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: S3430278
+      - gridcell "is template cell column header Model": SCN51 2025 Ascent 2.4T 7-Pass - Touring
+      - gridcell "is template cell column header Color": AG1 Autumn Green Metallic
+      - gridcell "is template cell column header Edit Stock#":
+        - text: 745 Mark as Sold Test
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1273"
+      - gridcell "is template cell column header MSRP": $54,067.00
+      - gridcell "is template cell column header PNVW": $1,034.00
+      - gridcell "is template cell column header Vehicle Status": In Transit
+      - gridcell "is template cell column header Sold Status": Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header Sold Status is template cell column header Actions" [selected]:
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice" [selected]:
+        - img "window-sticker"
+        - text: S3432548
+      - gridcell "is template cell column header Model" [selected]: SCN51 2025 Ascent 2.4T 7-Pass - Touring
+      - gridcell "is template cell column header Color" [selected]: WH5 Crystal White Pearl
+      - gridcell "is template cell column header Edit Stock#" [selected]:
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA" [selected]
+      - gridcell "is template cell column header Allocation" [selected]: "1273"
+      - gridcell "is template cell column header MSRP" [selected]: $54,407.00
+      - gridcell "is template cell column header PNVW" [selected]: $1,254.00
+      - gridcell "is template cell column header Vehicle Status" [selected]: In Transit
+      - gridcell "is template cell column header Sold Status" [selected]: Not Sold
+      - gridcell "is template cell column header Actions" [selected]:
+        - button "Actions": 
+  - navigation:
+    - button: 
+    - button: 
+    - link "Page 1 of 1 Pages":
+      - /url: "#"
+      - text: "1"
+    - button: 
+    - button: 
+  - text: 1 of 1 pages (2 items)
+  - textbox "clipboard"
+- navigation "Side Navigation":
+  - list "main navigation list":
+    - listitem "Home":
+      - img "Home"
+    - listitem "Vehicles":
+      - img "Vehicles"
+    - listitem "Allocation":
+      - img "Allocation"
+    - listitem "Parts":
+      - img "Parts"
+    - listitem "Sales":
+      - img "Sales"
+    - listitem "Boston Port":
+      - img "Boston Port"
+    - listitem "Reports":
+      - img "Reports"
+    - listitem "Admin & Finance":
+      - img "Admin & Finance"
+    - listitem "Miscellaneous":
+      - img "Miscellaneous"
+  - list "Help and Feedback list":
+    - listitem "Help":
+      - link "Help":
+        - /url: "#"
+        - img "Help"
+    - listitem "Feedback":
+      - img "Feedback"
+- dialog:
+  - document:
+    - button "Print":  Print
+    - button ""
+    - heading "Vehicle Information of VIN - 4S4WMAUD5S3432548" [level=2]
+    - paragraph: 010101 - Profile Subaru
+    - paragraph:  Route 16 Conway, NH 03818
+    - paragraph:  (603) - 447 - 3845 (Mobile)
+    - paragraph: (603) - 447 - 6051 (Fax)
+    - list:
+      - listitem: "Ship/Allocation No. : ***/ 1273"
+      - listitem: "Load Number : 0"
+      - listitem: "Est Delivery Date : 07/27/2025"
+    - list:
+      - listitem: "Delivery Date : N/A"
+      - listitem: "Stock Number : --"
+      - listitem: "Port Production : N/A"
+    - list:
+      - listitem:
+        - text: "VIN : 4S4WMAUD5S3432548"
+        - button "Copy VIN"
+      - listitem: "Model : SCN51 - Ascent 2.4T 7-Pass - Touring"
+      - listitem: "Year : 2025"
+      - listitem: "Exterior Color : WH5 - Crystal White Pearl"
+      - listitem: "Interior Color : Brown"
+      - listitem: "Standard Equipment : 51 Touring"
+    - list:
+      - listitem: "Transmission : AWD"
+      - listitem: "Body Type : Tou"
+      - listitem: "CAL/FED : C"
+    - list:
+      - listitem: "Ignition Key : *****"
+      - listitem: "Engine Number : ******"
+    - heading "Retailer Invoice & Pricing" [level=3]
+    - text: Show Retailer Cost
+    - switch
+    - table:
+      - rowgroup:
+        - row "Acc Code Description Retail Price":
+          - cell "Acc Code"
+          - cell "Description"
+          - cell "Retail Price"
+      - rowgroup:
+        - row "Base Price $51,165.00":
+          - cell
+          - cell "Base Price"
+          - cell "$51,165.00"
+        - row "0BZ REAR BUMPER COVER $175.00":
+          - cell "0BZ"
+          - cell "REAR BUMPER COVER"
+          - cell "$175.00"
+        - row "0C6 SPLASH GUARDS $193.00":
+          - cell "0C6"
+          - cell "SPLASH GUARDS"
+          - cell "$193.00"
+        - row "0C7 TRAILER HITCH $650.00":
+          - cell "0C7"
+          - cell "TRAILER HITCH"
+          - cell "$650.00"
+        - row "0CD CARGO TRAY $156.00":
+          - cell "0CD"
+          - cell "CARGO TRAY"
+          - cell "$156.00"
+        - row "0CH REAR SEATBACK PROTECTOR ROW 3 $167.00":
+          - cell "0CH"
+          - cell "REAR SEATBACK PROTECTOR ROW 3"
+          - cell "$167.00"
+        - row "0M7 BODY SIDE MOLDING $310.00":
+          - cell "0M7"
+          - cell "BODY SIDE MOLDING"
+          - cell "$310.00"
+        - row "15C LED UPGRADE $104.00":
+          - cell "15C"
+          - cell "LED UPGRADE"
+          - cell "$104.00"
+        - row "LPA LICENSE PLATE BRACKETS $67.00":
+          - cell "LPA"
+          - cell "LICENSE PLATE BRACKETS"
+          - cell "$67.00"
+        - row:
+          - cell
+          - cell
+    - list:
+      - listitem: "Suggested Retail Price : $52,987.00"
+      - listitem: "Freight Charge : $1,420.00"
+      - listitem: "Total Suggested List : $54,407.00"
+```

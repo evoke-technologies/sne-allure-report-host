@@ -1,0 +1,24 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (114)" with count: 114
+row count : 10
+Row 1 status: "In Transit"
+Row 2 status: "In Transit"
+Row 3 status: "In Transit"
+Row 4 status: "In Transit"
+Row 5 status: "In Transit"
+Row 6 status: "In Transit"
+Row 7 status: "In Transit"
+Row 8 status: "In Transit"
+Row 9 status: "In Transit"
+Row 10 status: "In Transit"
+All 10 rows matched status: "In Transit"
+Filter bar is visible
+ Found 4 filter inputs:
+ Filter with placeholder "Trim" is visible
+ Filter with placeholder "Color" is visible
+ Filter with placeholder "Allocation" is visible
+ Filter with placeholder "Vehicle Status" is visible
+Logged out successfully

@@ -1,0 +1,20 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (339)" with count: 339
+clicked on header to sort
+comparing values: L3475407 & S3432212
+comparing values: S3432212 & S3435107
+comparing values: S3435107 & S3435296
+comparing values: S3435296 & S3436967
+comparing values: S3436967 & S3437056
+comparing values: S3437056 & S3437279
+comparing values: S3437279 & S3437513
+Window Sticker & VIN/Invoice column is sorted in ascending order.
+Clicked dropdown icon at index 0
+Selected Trim option text: "LCG31 - Ascent 2.4T Touring 7-Pass./Navi/HK/MR CVT CVT"
+Extracted Trim Code: LCG31
+Clicked Apply button for Trim filter
+"At Port" column is visible.
+Logged out successfully

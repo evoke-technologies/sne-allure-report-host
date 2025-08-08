@@ -1,0 +1,1 @@
+Could not dump modal HTML: Error: locator.innerHTML: Target page, context or browser has been closed

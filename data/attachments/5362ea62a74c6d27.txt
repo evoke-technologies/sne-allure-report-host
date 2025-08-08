@@ -1,0 +1,13 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (344)" with count: 344
+row count : 1
+Filter bar is visible
+ Found 4 filter inputs:
+ Filter with placeholder "Trim" is visible
+ Filter with placeholder "Color" is visible
+ Filter with placeholder "Allocation" is visible
+ Filter with placeholder "Vehicle Status" is visible
+Logged out successfully

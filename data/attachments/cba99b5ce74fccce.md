@@ -1,0 +1,345 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - list:
+    - listitem:
+      - button "Navigation":
+        - img "Navigation"
+    - listitem:
+      - img "Subaru of New England"
+    - listitem:
+      - link "location icon Patrick Subaru Shrewsbury, MA 01545":
+        - /url: javascript:void(0)
+        - img "location icon"
+        - paragraph: Patrick Subaru
+        - paragraph: Shrewsbury, MA 01545
+  - list:
+    - listitem
+    - listitem:
+      - img "subarunet"
+    - listitem:
+      - img "subaru logo"
+    - listitem: 
+- navigation "Side Navigation":
+  - list "main navigation list":
+    - listitem "Home":
+      - img "Home"
+    - listitem "Vehicles":
+      - img "Vehicles"
+    - listitem "Allocation":
+      - img "Allocation"
+    - listitem "Parts":
+      - img "Parts"
+    - listitem "Sales":
+      - img "Sales"
+    - listitem "Boston Port":
+      - img "Boston Port"
+    - listitem "Reports":
+      - img "Reports"
+    - listitem "Admin & Finance":
+      - img "Admin & Finance"
+    - listitem "Miscellaneous":
+      - img "Miscellaneous"
+  - list "Help and Feedback list":
+    - listitem "Help":
+      - link "Help":
+        - /url: "#"
+        - img "Help"
+    - listitem "Feedback":
+      - img "Feedback"
+- region "Vehicle Inventory":
+  - heading "Vehicle Inventory" [level=1]
+  - navigation "Module Navigation":
+    - list "Module Navigation":
+      - listitem: Vehicle Inventory
+      - listitem: Vehicle Inquiry
+      - listitem: Vehicle Locator
+      - listitem: Build-A-Car
+      - listitem: Retailer Delivery Records
+      - listitem: Transfer
+      - listitem: Reports
+- navigation "Breadcrumb Navigation":
+  - list "Breadcrumb Navigation":
+    - listitem: 
+    - listitem: / Vehicle
+    - listitem: / Vehicle Inventory
+- list:
+  - listitem:
+    - tab "Total Vehicles (537)"
+  - listitem:
+    - tab "On Lot (221)"
+  - listitem:
+    - tab "On Order (202)"
+  - listitem:
+    - tab "In Transit (114)"
+  - listitem:
+    - tab "Sold Vehicles (0)"
+  - listitem:
+    - tab "Buy a Demo (0)"
+  - listitem:
+    - tab "Mark as SSLP"
+  - listitem:
+    - tab "Hold at Port (28)"
+- tabpanel:
+  - toolbar:
+    - img "Ascent"
+    - text: Ascent (9)
+    - img "BRZ"
+    - text: BRZ (5)
+    - img "Crosstrek"
+    - text: Crosstrek (50)
+    - img "Forester"
+    - text: Forester (45)
+    - img "Impreza"
+    - text: Impreza (21)
+    - img "Legacy"
+    - text: Legacy (22)
+    - img "Outback"
+    - text: Outback (41)
+    - img "Solterra"
+    - text: Solterra (1)
+    - img "WRX"
+    - text: WRX(8)
+  - list:
+    - listitem:
+      - button "Filters":
+        - img "Filter"
+        - text: Filters
+    - listitem:
+      - text: 
+      - combobox "multiselect"
+      - text: 
+    - listitem:
+      - text: 
+      - combobox "multiselect"
+      - text: 
+    - listitem:
+      - text: 
+      - combobox "multiselect"
+      - text: 
+    - listitem:
+      - combobox "dropdownlist":
+        - combobox "dropdownlist"
+        - text: 
+  - heading "On Order Vehicle List" [level=3]
+- grid:
+  - combobox "Select page size":
+    - option "10 rows"
+    - option "25 rows"
+    - option "50 rows"
+    - option "100 rows"
+    - option "All" [selected]
+  - button "search":
+    - img "search-icon"
+  - textbox "search"
+  - button "Edit Columns":  Edit Columns
+  - button "Export":  Export
+  - button "Print":  Print
+  - rowgroup:
+    - row "Window Sticker & VIN/Invoice Model Color Edit Stock# Retailer ETA Allocation MSRP PNVW Vehicle Status At Port Sold Status Actions":
+      - columnheader "Window Sticker & VIN/Invoice"
+      - columnheader "Model"
+      - columnheader "Color"
+      - columnheader "Edit Stock#"
+      - columnheader "Retailer ETA"
+      - columnheader "Allocation"
+      - columnheader "MSRP"
+      - columnheader "PNVW"
+      - columnheader "Vehicle Status"
+      - columnheader "At Port"
+      - columnheader "Sold Status"
+      - columnheader "Actions"
+  - rowgroup:
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: "19189500"
+      - gridcell "is template cell column header Model": SCC12 2025 Ascent 2.4T 7-Pass - Premium
+      - gridcell "is template cell column header Color": MGM Magnetite Gray Metallic
+      - gridcell "is template cell column header Edit Stock#":
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1274"
+      - gridcell "is template cell column header MSRP": $41,415.00
+      - gridcell "is template cell column header PNVW": $0.00
+      - gridcell "is template cell column header Vehicle Status": On Order
+      - gridcell "is template cell column header At Port"
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: "19189535"
+      - gridcell "is template cell column header Model": SCH22 2025 Ascent 2.4T 7-Pass - Onyx Edition
+      - gridcell "is template cell column header Color": CB9 Crystal Black Silica
+      - gridcell "is template cell column header Edit Stock#":
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1274"
+      - gridcell "is template cell column header MSRP": $45,405.00
+      - gridcell "is template cell column header PNVW": $0.00
+      - gridcell "is template cell column header Vehicle Status": On Order
+      - gridcell "is template cell column header At Port"
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: "19189566"
+      - gridcell "is template cell column header Model": SCK32 2025 Ascent 2.4T 8-Pass - Limited
+      - gridcell "is template cell column header Color": CB6 Crystal Black Silica
+      - gridcell "is template cell column header Edit Stock#":
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1274"
+      - gridcell "is template cell column header MSRP": $49,305.00
+      - gridcell "is template cell column header PNVW": $0.00
+      - gridcell "is template cell column header Vehicle Status": On Order
+      - gridcell "is template cell column header At Port"
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: "19189606"
+      - gridcell "is template cell column header Model": SCL32 2025 Ascent 2.4T 7-Pass - Limited
+      - gridcell "is template cell column header Color": CRD Crimson Read Pearl
+      - gridcell "is template cell column header Edit Stock#":
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1274"
+      - gridcell "is template cell column header MSRP": $49,305.00
+      - gridcell "is template cell column header PNVW": $0.00
+      - gridcell "is template cell column header Vehicle Status": On Order
+      - gridcell "is template cell column header At Port"
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: "19189659"
+      - gridcell "is template cell column header Model": SCN51 2025 Ascent 2.4T 7-Pass - Touring
+      - gridcell "is template cell column header Color": AG1 Autumn Green Metallic
+      - gridcell "is template cell column header Edit Stock#":
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1274"
+      - gridcell "is template cell column header MSRP": $52,585.00
+      - gridcell "is template cell column header PNVW": $0.00
+      - gridcell "is template cell column header Vehicle Status": On Order
+      - gridcell "is template cell column header At Port"
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: "19189724"
+      - gridcell "is template cell column header Model": SCN51 2025 Ascent 2.4T 7-Pass - Touring
+      - gridcell "is template cell column header Color": WHC Crystal White Pearl
+      - gridcell "is template cell column header Edit Stock#":
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1274"
+      - gridcell "is template cell column header MSRP": $52,585.00
+      - gridcell "is template cell column header PNVW": $0.00
+      - gridcell "is template cell column header Vehicle Status": On Order
+      - gridcell "is template cell column header At Port"
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: "19189769"
+      - gridcell "is template cell column header Model": SCP61 2025 Ascent 2.4T 7-Pass - Onyx Edition Touring
+      - gridcell "is template cell column header Color": MGM Magnetite Gray Metallic
+      - gridcell "is template cell column header Edit Stock#":
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1274"
+      - gridcell "is template cell column header MSRP": $53,470.00
+      - gridcell "is template cell column header PNVW": $0.00
+      - gridcell "is template cell column header Vehicle Status": On Order
+      - gridcell "is template cell column header At Port"
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: S3428700
+      - gridcell "is template cell column header Model": SCH22 2025 Ascent 2.4T 7-Pass - Onyx Edition
+      - gridcell "is template cell column header Color": CBP Cosmic Blue Pearl
+      - gridcell "is template cell column header Edit Stock#":
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1272"
+      - gridcell "is template cell column header MSRP": $46,694.00
+      - gridcell "is template cell column header PNVW": $890.00
+      - gridcell "is template cell column header Vehicle Status": On Order
+      - gridcell "is template cell column header At Port"
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+    - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Sold Status is template cell column header Actions":
+      - gridcell "is template cell column header Window Sticker & VIN/Invoice":
+        - img "window-sticker"
+        - text: K3462987
+      - gridcell "is template cell column header Model": KCD23 2019 Ascent 2.4T Limited 8-Pass./Navi/HK/MR
+      - gridcell "is template cell column header Color": TGM Tungsten Metallic
+      - gridcell "is template cell column header Edit Stock#":
+        - text: 191470SW WESTCHESTER/WEST
+        - button "Edit Stock": 
+      - gridcell "is template cell column header Retailer ETA"
+      - gridcell "is template cell column header Allocation": "1192"
+      - gridcell "is template cell column header MSRP": $43,351.00
+      - gridcell "is template cell column header PNVW": $285.00
+      - gridcell "is template cell column header Vehicle Status": On Order
+      - gridcell "is template cell column header At Port"
+      - gridcell "is template cell column header Sold Status": Not Sold
+      - gridcell "is template cell column header Actions":
+        - button "Actions": 
+  - navigation:
+    - button: 
+    - button: 
+    - link "Page 1 of 1 Pages":
+      - /url: "#"
+      - text: "1"
+    - button: 
+    - button: 
+  - text: 1 of 1 pages (9 items)
+  - textbox "clipboard"
+- navigation "Side Navigation":
+  - list "main navigation list":
+    - listitem "Home":
+      - img "Home"
+    - listitem "Vehicles":
+      - img "Vehicles"
+    - listitem "Allocation":
+      - img "Allocation"
+    - listitem "Parts":
+      - img "Parts"
+    - listitem "Sales":
+      - img "Sales"
+    - listitem "Boston Port":
+      - img "Boston Port"
+    - listitem "Reports":
+      - img "Reports"
+    - listitem "Admin & Finance":
+      - img "Admin & Finance"
+    - listitem "Miscellaneous":
+      - img "Miscellaneous"
+  - list "Help and Feedback list":
+    - listitem "Help":
+      - link "Help":
+        - /url: "#"
+        - img "Help"
+    - listitem "Feedback":
+      - img "Feedback"
+```

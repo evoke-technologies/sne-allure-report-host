@@ -1,0 +1,45 @@
+Error in openAndCloseFirstVinPopup: locator.click: Test timeout of 100000ms exceeded.
+Call log:
+  - waiting for locator('table tbody tr.e-row').first().locator('td:nth-child(1)').locator('a.f-blue')
+
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:2530:70 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@55',
+    location: {
+      file: 'D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js',
+      line: 2530,
+      column: 70
+    },
+    category: 'pw:api',
+    title: "Click locator('table tbody tr.e-row').first().locator('td:nth-child(1)').locator('a.f-blue')",
+    apiName: 'locator.click',
+    params: {
+      selector: 'table tbody tr.e-row >> nth=0 >> td:nth-child(1) >> a.f-blue',
+      strict: true,
+      timeout: 0
+    },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@55',
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1754659512278,
+    error: {
+      message: 'Error: locator.click: Test timeout of 100000ms exceeded.\n' +
+        'Call log:\n' +
+        "\x1B[2m  - waiting for locator('table tbody tr.e-row').first().locator('td:nth-child(1)').locator('a.f-blue')\x1B[22m\n",
+      stack: 'Error: locator.click: Test timeout of 100000ms exceeded.\n' +
+        'Call log:\n' +
+        "\x1B[2m  - waiting for locator('table tbody tr.e-row').first().locator('td:nth-child(1)').locator('a.f-blue')\x1B[22m\n" +
+        '\n' +
+        '    at D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js:2530:70',
+      cause: undefined
+    }
+  }
+}
+Could not dump modal HTML: Error: locator.innerHTML: Target page, context or browser has been closed

@@ -1,0 +1,14 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (101)" with count: 101
+clicked on header to sort
+comparing values: S3434598 & S3434606
+Window Sticker & VIN/Invoice column is sorted in ascending order.
+Clicked dropdown icon at index 0
+Selected Trim option text: "SCH22 - Ascent 2.4T 7-Pass - Onyx Edition"
+Extracted Trim Code: SCH22
+Clicked Apply button for Trim filter
+"At Port" column is visible.
+Logged out successfully

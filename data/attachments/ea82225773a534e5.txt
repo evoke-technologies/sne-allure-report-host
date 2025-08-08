@@ -1,0 +1,1 @@
+Window Sticker & VIN/Invoice column is sorted in ascending order.

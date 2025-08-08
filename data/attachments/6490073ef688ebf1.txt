@@ -1,0 +1,23 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Lot (163)" with count: 163
+Clicked dropdown icon at index 1
+Selected Trim option text: "SRA03 - Crosstrek 5D 2.0L CVT"
+Extracted Trim Code: SRA03
+Clicked Apply button for Trim filter
+clicked on header to sort
+comparing values: SH273712 & SH276809
+comparing values: SH276809 & SH280629
+comparing values: SH280629 & SH283269
+Window Sticker & VIN/Invoice column is sorted in ascending order.
+Row 1 model: "SRA03
+2025 Crosstrek 5D 2.0L CVT"
+Row 2 model: "SRA03
+2025 Crosstrek 5D 2.0L CVT"
+Row 3 model: "SRA03
+2025 Crosstrek 5D 2.0L CVT"
+Row 4 model: "SRA03
+2025 Crosstrek 5D 2.0L CVT"
+ All 4 rows matched model: "SRA03"

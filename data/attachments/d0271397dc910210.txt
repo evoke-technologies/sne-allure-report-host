@@ -1,0 +1,16 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (344)" with count: 344
+Found 9 visible model(s)
+Model 1: Ascent
+Model 2: BRZ
+Model 3: Crosstrek
+Model 4: Forester
+Model 5: Impreza
+Model 6: Legacy
+Model 7: Outback
+Model 8: Solterra
+Model 9: WRX
+Logged out successfully

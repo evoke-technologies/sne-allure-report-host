@@ -1,0 +1,1 @@
+Mismatch for model "Impreza": Grid rows (98) ≠ Expected count (78)

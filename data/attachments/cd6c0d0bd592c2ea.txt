@@ -1,0 +1,1 @@
+Stay signed in prompt appeared and was handled

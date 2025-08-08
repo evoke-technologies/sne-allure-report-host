@@ -1,0 +1,28 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (202)" with count: 202
+row count : 9
+Row 1 status: "On Order"
+Row 2 status: "On Order"
+Row 3 status: "On Order"
+Row 4 status: "On Order"
+Row 5 status: "On Order"
+Row 6 status: "On Order"
+Row 7 status: "On Order"
+Row 8 status: "On Order"
+Row 9 status: "On Order"
+All 9 rows matched status: "On Order"
+Row 0 skipped (Sold Status: Sold)
+Row 1 - Model: SCH22
+2025 Ascent 2.4T 7-Pass - Onyx Edition, VIN Voice: 19189535, Sold Status: Not Sold
+Clicked on VIN link in row 1
+Extracted VIN from modal: 4S300000019189535
+Modal closed
+ VIN extracted: 4S300000019189535
+Search input filled with: 4S300000019189535
+ Search completed using VIN: 4S300000019189535
+Checked "Mark as Sold"
+Edited stock: Stock# = "745", Comment = "Mark as Sold Test", Sold = true
+Logged out successfully

@@ -1,0 +1,2 @@
+Error: No rows found in the vehicle table
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:754:17

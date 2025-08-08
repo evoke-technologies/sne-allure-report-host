@@ -1,0 +1,28 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Mark as SSLP " with count: 0
+inside active model info method, model: Crosstrek count: 18
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 6
+Color popup is now visible
+Selected Color: SRB14 - Crystal Black Silica
+Color filter applied
+inside active model info method, model: Crosstrek count: 1
+Model count changed: 18 → undefined
+inside active model info method, model: Crosstrek count: 1
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 6
+Color popup is now visible
+Selected Color: SRB14 - Crystal Black Silica
+Removed disabled attribute from Apply button
+Color filter applied
+inside active model info method, model: Crosstrek count: 18
+Model count changed: 1 → undefined
+Color is selected and applied SRB14 - Crystal Black Silica
+Row 1 color: "CB4 Crystal Black Silica"
+ 1 rows matched color: "Crystal Black Silica"
+Logged out successfully

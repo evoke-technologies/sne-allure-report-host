@@ -1,0 +1,2 @@
+ Failed clicking "Mark as SSLP" button: Error: No model data available for the retailer in the SSLP tab.
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:391:17

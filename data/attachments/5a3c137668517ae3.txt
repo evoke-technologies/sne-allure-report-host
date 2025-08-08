@@ -1,0 +1,26 @@
+Error while navigating to nav tab "On Order": locator.click: Test timeout of 100000ms exceeded.
+Call log:
+[2m  - waiting for locator('//a[contains(@class, "nav-link") and contains(text(),"On Order")]')[22m
+[2m    - locator resolved to <a role="tab" tabindex="-1" class="nav-link" data-toggle="tab" aria-selected="false" _ngcontent-ng-c57738297="">On Order (0)</a>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    10 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m

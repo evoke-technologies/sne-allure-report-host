@@ -1,0 +1,3 @@
+Could not dump modal HTML: Error: locator.innerHTML: Test timeout of 100000ms exceeded.
+Call log:
+[2m  - waiting for locator('modal-container[role="dialog"]')[22m

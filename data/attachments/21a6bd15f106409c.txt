@@ -1,0 +1,44 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (843)" with count: 843
+row count : 4
+Row 1 status: "On Order"
+Row 2 status: "On Order"
+Row 3 status: "On Order"
+Row 4 status: "On Order"
+All 4 rows matched status: "On Order"
+Clicked dropdown icon at index 2
+Selected Trim option text: "LCB12 - Ascent 2.4T Premium 8-Pass./PRG/Keyless/RAB"
+Extracted Trim Code: LCB12
+Clicked Apply button for Trim filter
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: L3413397
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: L3413397
+"Window Sticker & VIN/Invoice" sorted descending.
+Row 1 model: "LCB12
+2020 Ascent 2.4T Premium 8-Pass./PRG/Keyless/RAB"
+ All 1 rows matched model: "LCB12"
+inside active model info method, model: Ascent count: 1
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 2
+Color popup is now visible
+Selected Color: LCB12 - Crystal White Pearl
+Color filter applied
+inside active model info method, model: Ascent count: 1
+Model count changed: 1 → undefined
+Color is selected and applied
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: L3413397
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: L3413397
+"Window Sticker & VIN/Invoice" sorted descending.
+Row 1 color: "WHC
+Crystal White Pearl"
+ All 1 rows matched color: "Crystal White Pearl"
+"At Port" column is visible.

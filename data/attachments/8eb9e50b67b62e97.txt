@@ -1,0 +1,29 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (395)" with count: 395
+Search input filled with: Ascent
+row count : 10
+Row 1 model: "SCC12
+2025 Ascent 2.4T 7-Pass - Premium"
+Row 2 model: "SCH22
+2025 Ascent 2.4T 7-Pass - Onyx Edition"
+Row 3 model: "SCK32
+2025 Ascent 2.4T 8-Pass - Limited"
+Row 4 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 5 model: "SCN51
+2025 Ascent 2.4T 7-Pass - Touring"
+Row 6 model: "SCP61
+2025 Ascent 2.4T 7-Pass - Onyx Edition Touring"
+Row 7 model: "SCC12
+2025 Ascent 2.4T 7-Pass - Premium"
+Row 8 model: "SCH22
+2025 Ascent 2.4T 7-Pass - Onyx Edition"
+Row 9 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 10 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+All 10 rows matched model: "Ascent"
+Logged out successfully

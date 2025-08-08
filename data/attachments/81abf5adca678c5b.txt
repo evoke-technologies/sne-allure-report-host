@@ -1,0 +1,32 @@
+ Navigation error: page.waitForTimeout: Test timeout of 100000ms exceeded.
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:371:25 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@48',
+    location: {
+      file: 'D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js',
+      line: 371,
+      column: 25
+    },
+    category: 'pw:api',
+    title: 'Wait for timeout',
+    apiName: 'page.waitForTimeout',
+    params: { waitTimeout: 5000 },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@48',
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1754638537375,
+    error: {
+      message: 'Error: page.waitForTimeout: Test timeout of 100000ms exceeded.',
+      stack: 'Error: page.waitForTimeout: Test timeout of 100000ms exceeded.\n' +
+        '    at D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js:371:25',
+      cause: undefined
+    }
+  }
+}

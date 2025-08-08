@@ -1,0 +1,27 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Mark as SSLP " with count: 0
+inside active model info method, model: Crosstrek count: 50
+Clicked dropdown icon at index 6
+Opened Trim filter
+Selected Trim Code: SRA03
+Selected Trim Code: SRB13
+Clicked Apply button for Trim filter
+Search input filled with: 
+inside active model info method, model: Crosstrek count: 5
+Model count changed: 50 → undefined
+row count : 5
+Row 1 model: "SRA03
+2025 Crosstrek 5D 2.0L CVT"
+Row 2 model: "SRA03
+2025 Crosstrek 5D 2.0L CVT"
+Row 3 model: "SRA03
+2025 Crosstrek 5D 2.0L CVT"
+Row 4 model: "SRA03
+2025 Crosstrek 5D 2.0L CVT"
+Row 5 model: "SRB13
+2025 Crosstrek 5D 2.5L CVT - Premium"
+All 5 rows in column "model" matched at least one of: [SRA03, SRB13]
+Logged out successfully

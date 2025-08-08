@@ -1,0 +1,7 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (412)" with count: 412
+VIN value from table: S3431154
+Clicked on VIN key in first row

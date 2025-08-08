@@ -1,0 +1,8 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+ Starting: Vehicles Page
+ Clicked on "Vehicles" link in the left nav bar.
+ Navigated to "Mark as SSLP" tab.
+No model data available for the retailer in the SSLP tab.

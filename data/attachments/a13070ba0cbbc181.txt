@@ -1,0 +1,10 @@
+No rows found in table for column "status". Skipping validation.
+Grid header validation error: Timed out 5000ms waiting for expect(locator).toBeVisible()
+
+Locator: locator('.tab-pane.show.active.fade').locator('div.e-headercontent table.e-table thead tr.e-columnheader th').first()
+Expected: visible
+Received: <element(s) not found>
+Call log:
+  - Expect "toBeVisible" with timeout 5000ms
+  - waiting for locator('.tab-pane.show.active.fade').locator('div.e-headercontent table.e-table thead tr.e-columnheader th').first()
+

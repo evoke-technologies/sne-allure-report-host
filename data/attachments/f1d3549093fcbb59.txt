@@ -1,0 +1,7 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (843)" with count: 843
+VIN value from table: 19189609
+Clicked on VIN key in first row

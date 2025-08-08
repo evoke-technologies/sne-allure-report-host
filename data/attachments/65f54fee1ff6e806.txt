@@ -1,0 +1,20 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (1073)" with count: 1073
+clicked on header to sort
+comparing values: 19189609 & 19189693
+comparing values: 19189693 & L3413397
+comparing values: L3413397 & L3454270
+comparing values: L3454270 & S3428655
+comparing values: S3428655 & S3430751
+comparing values: S3430751 & S3431528
+comparing values: S3431528 & S3431531
+Window Sticker & VIN/Invoice column is sorted in ascending order.
+Clicked dropdown icon at index 0
+Selected Trim option text: "LCB12 - Ascent 2.4T Premium 8-Pass./PRG/Keyless/RAB"
+Extracted Trim Code: LCB12
+Clicked Apply button for Trim filter
+"At Port" column is visible.
+Logged out successfully

@@ -1,0 +1,25 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (537)" with count: 537
+Total Vehicles (537) count: 537
+inside active model info method, model: Ascent count: 27
+Validating pagination for model: "Ascent" with count: 27
+Total Vehicles (537) count: 537
+Total Vehicles (537) count: 537
+Page size "10" passed: 10 rows, "(27 items)", "1 of 3 pages"
+Total Vehicles (537) count: 537
+Total Vehicles (537) count: 537
+Page size "25" passed: 25 rows, "(27 items)", "1 of 2 pages"
+Total Vehicles (537) count: 537
+Total Vehicles (537) count: 537
+Page size "50" passed: 27 rows, "(27 items)", "1 of 1 pages"
+Total Vehicles (537) count: 537
+Total Vehicles (537) count: 537
+Page size "100" passed: 27 rows, "(27 items)", "1 of 1 pages"
+Total Vehicles (537) count: 537
+Total Vehicles (537) count: 537
+Page size "All" passed: 27 rows, "(27 items)", "1 of 1 pages"
+Pagination validation completed successfully for model "Ascent"
+Logged out successfully

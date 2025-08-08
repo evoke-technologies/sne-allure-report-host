@@ -1,0 +1,16 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (8)" with count: 8
+Row 0 - Model: FRC13
+2015 XV Crosstrek 5D 2.0i Premium w/MR CVT, VIN Voice: F8210904, Sold Status: Not Sold
+Clicked on VIN link in row 0
+Extracted VIN from modal: JF2GPADC7F8210904
+Modal closed
+ VIN extracted: JF2GPADC7F8210904
+Search input filled with: JF2GPADC7F8210904
+ Search completed using VIN: JF2GPADC7F8210904
+Checked "Mark as Sold"
+Edited stock: Stock# = "745", Comment = "Mark as Sold Test", Sold = true
+Logged out successfully

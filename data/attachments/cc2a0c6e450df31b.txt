@@ -1,0 +1,1 @@
+Mismatch for model "Crosstrek": Grid rows (4) ≠ Expected count (189)

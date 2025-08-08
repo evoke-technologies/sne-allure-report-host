@@ -1,0 +1,14 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Clicked dropdown icon at index 0
+Selected Trim option text: "LCG31 - Ascent 2.4T Touring 7-Pass./Navi/HK/MR CVT CVT"
+Extracted Trim Code: LCG31
+Clicked Apply button for Trim filter
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: L3475407
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: L3475407
+"Window Sticker & VIN/Invoice" sorted descending.

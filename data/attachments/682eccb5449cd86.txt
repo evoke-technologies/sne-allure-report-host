@@ -1,0 +1,46 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (314)" with count: 314
+Navigated to "Total Vehicles" tab with count: 314
+Total visible models: 9
+Model: "Ascent"
+Expected Count: 7
+Grid Rows Displayed: 7
+( Grid row count matches expected count.
+Model: "BRZ"
+Expected Count: 1
+Grid Rows Displayed: 1
+( Grid row count matches expected count.
+Model: "Crosstrek"
+Expected Count: 59
+Grid Rows Displayed: 59
+( Grid row count matches expected count.
+Model: "Forester"
+Expected Count: 82
+Grid Rows Displayed: 59
+Error validating model "Forester": Mismatch for model "Forester": Grid rows (59) ≠ Expected count (82)
+Model: "Impreza"
+Expected Count: 53
+Grid Rows Displayed: 82
+Error validating model "Impreza": Mismatch for model "Impreza": Grid rows (82) ≠ Expected count (53)
+Model: "Legacy"
+Expected Count: 56
+Grid Rows Displayed: 53
+Error validating model "Legacy": Mismatch for model "Legacy": Grid rows (53) ≠ Expected count (56)
+Model: "Outback"
+Expected Count: 55
+Grid Rows Displayed: 56
+Error validating model "Outback": Mismatch for model "Outback": Grid rows (56) ≠ Expected count (55)
+Skipping model "Solterra" due to zero count.
+Error validating model "WRX": locator.scrollIntoViewIfNeeded: Element is not attached to the DOM
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+    - element is not stable
+  - retrying scroll into view action
+    - waiting for element to be stable
+
+Sum of models: 314, Tab count: 314
+Logged out successfully

@@ -1,0 +1,1 @@
+Mismatch for model "Legacy": Grid rows (78) ≠ Expected count (67)

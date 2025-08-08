@@ -1,0 +1,54 @@
+Error in openAndCloseFirstVinPopup: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator('.spinner-overlay') to be hidden
+    24 × locator resolved to visible <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div>
+
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:2527:28 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    stepId: 'pw:api@52',
+    location: {
+      file: 'D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js',
+      line: 2527,
+      column: 28
+    },
+    category: 'pw:api',
+    title: "Wait for selector locator('.spinner-overlay')",
+    apiName: 'locator.waitFor',
+    params: {
+      selector: '.spinner-overlay',
+      strict: true,
+      omitReturnValue: true,
+      state: 'hidden',
+      timeout: 10000
+    },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@52',
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1754659261674,
+    error: {
+      message: 'TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        "\x1B[2m  - waiting for locator('.spinner-overlay') to be hidden\x1B[22m\n" +
+        '\x1B[2m    24 × locator resolved to visible <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div>\x1B[22m\n',
+      stack: 'TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\n' +
+        'Call log:\n' +
+        "\x1B[2m  - waiting for locator('.spinner-overlay') to be hidden\x1B[22m\n" +
+        '\x1B[2m    24 × locator resolved to visible <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div>\x1B[22m\n' +
+        '\n' +
+        '    at D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js:2527:28',
+      cause: undefined
+    }
+  }
+}
+Could not dump modal HTML: Error: locator.innerHTML: Test timeout of 100000ms exceeded.
+Call log:
+  - waiting for locator('modal-container[role="dialog"]')
+

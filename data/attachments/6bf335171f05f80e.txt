@@ -1,0 +1,1 @@
+Model: Crosstrek, Expected: 59, Actual: 59

@@ -1,0 +1,14 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (11)" with count: 11
+row count : 4
+Row 1 status: "On Order"
+Row 2 status: "On Order"
+Row 3 status: "On Order"
+Row 4 status: "On Order"
+All 4 rows matched status: "On Order"
+Search input filled with: Ascent
+row count : 1
+Logged out successfully

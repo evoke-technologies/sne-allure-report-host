@@ -1,0 +1,224 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - list:
+    - listitem:
+      - button "Navigation":
+        - img "Navigation"
+    - listitem:
+      - img "Subaru of New England"
+    - listitem:
+      - link "location icon Subaru of New England Inc Norwood, 02062":
+        - /url: javascript:void(0)
+        - img "location icon"
+        - paragraph: Subaru of New England Inc
+        - paragraph: Norwood, 02062
+  - list:
+    - listitem
+    - listitem:
+      - img "subarunet"
+    - listitem:
+      - img "subaru logo"
+    - listitem: 
+- navigation "Side Navigation":
+  - list "main navigation list":
+    - listitem "Home":
+      - img "Home"
+    - listitem "Vehicles":
+      - img "Vehicles"
+    - listitem "Allocation":
+      - img "Allocation"
+    - listitem "Parts":
+      - img "Parts"
+    - listitem "Sales":
+      - img "Sales"
+    - listitem "Boston Port":
+      - img "Boston Port"
+    - listitem "Reports":
+      - img "Reports"
+    - listitem "Admin & Finance":
+      - img "Admin & Finance"
+    - listitem "Miscellaneous":
+      - img "Miscellaneous"
+  - list "Help and Feedback list":
+    - listitem "Help":
+      - link "Help":
+        - /url: "#"
+        - img "Help"
+    - listitem "Feedback":
+      - img "Feedback"
+- button "search":
+  - img "search-icon"
+- textbox "search"
+- text: 
+- combobox "multiselect"
+- text: 
+- button "Close": 
+- text: 141 Burlington Subaru, null 149 Subaru of New England Inc, null 153 Subaru of Claremont, null  225 Belknap Subaru Inc., null 350 Saint J. Subaru, null 373 Subaru of Keene, null 379 802 Subaru, null 383 Haddad Subaru, null 388 Brattleboro Subaru, null 390 Bennington Subaru, null  396 White River Subaru, null  402707 Dan OBrien Subaru, null  403942 White River Subaru, null 404138 Lundgren Subaru of Bennington, null 404671 Haddad Subaru of St. Albans, null 404810 Claremont Subaru, null  404823 Oliver Subaru of Rutland, null 404911 Balise Subaru of Hadley, null 405595 Lundgren Subaru of Claremont, null 405739 Burlington Subaru, null 101 Profile Subaru, null 172 Exeter Subaru, null 191 Quirk Subaru, null 232 TriCity Subaru, null  246 Patriot Subaru, null 270 Bath Subaru, null 287 Charlies Subaru, null 355 Stanley Subaru Inc., null 372 Evergreen Subaru, null 384 Pape Subaru, null 397 McGovern Subaru, null 404357 Tri-City Subaru, null 404602 Capital City Subaru, null 405052 Ira Subaru Manchester, null 143 Subaru of Wakefield, null  150 Patrick Subaru, null 166 Ed Reilly Subaru, null  168 CitySide Subaru, null 199 Clay Subaru, null 217 Ira Subaru, null 231 Village Subaru, null  243 Manchester Subaru, null  359 North End Subaru, null 371 MetroWest Subaru, null 377 Quirk Works Subaru, null 387 North Reading Subaru, null 392 Prime Subaru, null  394 AutoFair Subaru, null  395 Amherst Subaru, null 402658 Granite Subaru, null 404598 AutoFair Subaru, null 404617 McGovern Subaru of Acton, null 405493 Subaru of Wakefield, null 126 Beard Subaru, null  145 Secor Subaru, null 147 Reynolds Garage and Marine, null 194 Holmgren Subaru, null 201 Somerset Subaru, null  205 Anchor Subaru LLC., null 209 Planet Subaru, null 237 Atlantic Subaru, null 357 Mastria Subaru, null 358 Long Subaru Inc., null 385 Valenti Subaru, null 386 Balise Subaru Inc., null 393 Patriot Subaru of N. Attleboro, null 402660 Stateline Subaru, null 402727 Prime Subaru Hyannis, null  404225 Copeland Subaru Hyannis, null 108 Mitchell Subaru, null 157 Colonial Subaru, null 182 Bertera Subaru, null 185 Quality Subaru, null 187 Garavel Subaru, null 220 Premier Subaru, null 255 Schaller Subaru, null 261 Dan Perkins Subaru, null 296 Suburban Subaru Inc, null 356 Subaru Stamford, null 389 Bertera Subaru Of Hartford Inc, null 391 Premier Subaru Middlebury, null 404133 Gengras Subaru, null 132 Center Subaru, null 
+- separator
+- text:  Terminated Retailers (Can only view data)
+- heading "Hi Subaru of New England Inc , Good Morning!" [level=1]
+- paragraph: Today is Aug 08
+- img "search icon"
+- textbox "search"
+- button "search": GO
+- list:
+  - listitem: Transfer Vehicle
+  - listitem: 1258 Allocation Summary
+  - listitem: Retail Order Status
+  - listitem: Parts List/Inquiry
+  - listitem: Billing Inquiry
+  - listitem: Add Shortcut
+- text: 05/08/2024
+- img "matrics"
+- text: Inventory Details
+- list:
+  - listitem:
+    - tab "pie chartBy Total" [selected]:
+      - img "pie chart"
+      - text: By Total
+  - listitem:
+    - tab "car iconBy Models" [selected]:
+      - img "car icon"
+      - text: By Models
+- tabpanel:
+  - list:
+    - listitem: Total Vehicles 176
+    - listitem: On Lot 155
+    - listitem: On Order 1,111
+    - listitem: In transit 70
+    - listitem: Sold Cars 10
+    - listitem: Demos for Purchase 2
+    - listitem: SSLP 5
+  - button "View full inventory view inventory":
+    - text: View full inventory
+    - img "view inventory"
+- img "matrics"
+- text: Sales Numbers
+- paragraph:
+  - img "store"
+  - text: Subaru of New England Inc
+- list:
+  - listitem: Daily 0
+  - listitem: Month to Date (MTD) 19
+  - listitem: Year to Date (YTD) 605
+- paragraph:
+  - img "District"
+  - text: District 5
+- list:
+  - listitem: Daily 0
+  - listitem: Month to Date (MTD) 134
+  - listitem: Year to Date (YTD) 3,563
+- paragraph:
+  - img "SNE"
+  - text: SNE
+- list:
+  - listitem: Daily 0
+  - listitem: Month to Date (MTD) 1,138
+  - listitem: Year to Date (YTD) 25,048
+- img "matrics"
+- text: Parts Invoice List
+- img "package"
+- text: 04/12/2024 Stock Order (7) | VOR Order (0)
+- button "print": 
+- img "package"
+- text: 04/12/2024 Stock Order (7) | VOR Order (0)
+- button "print": 
+- img "package"
+- text: 04/12/2024 Stock Order (7) | VOR Order (0)
+- button "print": 
+- img "package"
+- text: 04/12/2024 Stock Order (7) | VOR Order (0)
+- button "print": 
+- img "package"
+- text: 04/12/2024 Stock Order (7) | VOR Order (0)
+- button "print": 
+- img "package"
+- text: 04/12/2024 Stock Order (7) | VOR Order (0)
+- button "print": 
+- button "Stock Order exit":
+  - text: Stock Order
+  - img "exit"
+- button "VOR Order exit":
+  - text: VOR Order
+  - img "exit"
+- text: 05/08/2024
+- img "matrics"
+- text: Retailer Metrics
+- paragraph:
+  - img "Purchase"
+  - text: Purchase
+- list:
+  - listitem: "Net Promoter Score: 87.9%"
+  - listitem: "National NPS: 89.4%"
+  - listitem: "Survey Quality Index: 78%"
+  - listitem: "National SQL: 77.4%"
+- paragraph:
+  - img "Service"
+  - text: Service
+- list:
+  - listitem: "Net Promoter Score: 93.1%"
+  - listitem: "National NPS: 92.6%"
+  - listitem: "Survey Quality Index: 93.3%"
+  - listitem: "National SQL: 95.4%"
+- paragraph:
+  - img "Combined"
+  - text: Combined
+- list:
+  - listitem: "Survey Quality Index: 93.2%"
+  - listitem: "National NPS: 94.4%"
+- paragraph:
+  - img "Love Promise"
+  - text: Love Promise
+- list:
+  - listitem: "LPCCA Score: 40%"
+- text: Accrual Balance  $1,325 X% then last month Accrual Earning  $480 X% then last month Accrual Used  $59 X% then last month Accrual Pending  $3,625 X% then last month
+- img "Announcements"
+- text: Announcements
+- button "View All"
+- list:
+  - listitem:
+    - text: 
+    - paragraph: MY24 WRX Brochure - Now Available
+    - paragraph: Check the new unveiled models.
+    - paragraph: 04/12/2024
+  - listitem:
+    - text: 
+    - paragraph: Part Numbers 86229AL10C & 86229AL11C
+    - paragraph: Welcome to the Future of Driving with Subaru. Check the new unveiled models.
+    - paragraph: 03/28/2024
+  - listitem:
+    - text: 
+    - paragraph: Executive Retailer Letter from Jeff Walters
+    - paragraph: "--"
+    - paragraph: 02/29/2024
+- img "subaru promise"
+- navigation "Side Navigation":
+  - list "main navigation list":
+    - listitem "Home":
+      - img "Home"
+    - listitem "Vehicles":
+      - img "Vehicles"
+    - listitem "Allocation":
+      - img "Allocation"
+    - listitem "Parts":
+      - img "Parts"
+    - listitem "Sales":
+      - img "Sales"
+    - listitem "Boston Port":
+      - img "Boston Port"
+    - listitem "Reports":
+      - img "Reports"
+    - listitem "Admin & Finance":
+      - img "Admin & Finance"
+    - listitem "Miscellaneous":
+      - img "Miscellaneous"
+  - list "Help and Feedback list":
+    - listitem "Help":
+      - link "Help":
+        - /url: "#"
+        - img "Help"
+    - listitem "Feedback":
+      - img "Feedback"
+```

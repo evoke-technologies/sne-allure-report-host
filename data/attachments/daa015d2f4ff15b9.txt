@@ -1,0 +1,16 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (224)" with count: 224
+clicked on header to sort
+comparing values: K3431119 & K3432981
+comparing values: K3432981 & L3403769
+comparing values: L3403769 & L3443331
+Window Sticker & VIN/Invoice column is sorted in ascending order.
+Clicked dropdown icon at index 2
+Selected Trim option text: "KCE23 - Ascent 2.4T Limited 7-Pass./Navi/HK/MR"
+Extracted Trim Code: KCE23
+Clicked Apply button for Trim filter
+"At Port" column is visible.
+Logged out successfully

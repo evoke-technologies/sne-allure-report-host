@@ -1,0 +1,20 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (143)" with count: 143
+clicked on header to sort
+comparing values: S3434875 & S3435030
+comparing values: S3435030 & S3435547
+comparing values: S3435547 & S3435824
+comparing values: S3435824 & S3436266
+comparing values: S3436266 & S3436421
+comparing values: S3436421 & S3436940
+comparing values: S3436940 & S3437307
+Window Sticker & VIN/Invoice column is sorted in ascending order.
+Clicked dropdown icon at index 3
+Selected Trim option text: "SCC12 - Ascent 2.4T 7-Pass - Premium"
+Extracted Trim Code: SCC12
+Clicked Apply button for Trim filter
+"At Port" column is visible.
+Logged out successfully

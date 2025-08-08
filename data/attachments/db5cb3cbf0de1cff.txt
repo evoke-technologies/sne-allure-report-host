@@ -1,0 +1,19 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Mark as SSLP " with count: 0
+inside active model info method, model: Ascent count: 1
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 6
+Color popup is now visible
+Selected Color: SCL32 - Cosmic Blue Pearl
+Color filter applied
+inside active model info method, model: Ascent count: 1
+Model count changed: 1 → undefined
+Row 1 color: "CP2
+Cosmic Blue Pearl"
+ All 1 rows matched color: "Cosmic Blue Pearl"
+Print PDF saved for undefined
+Logged out successfully

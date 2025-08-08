@@ -1,0 +1,16 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (108)" with count: 108
+Row 0 - Model: SCN51
+2025 Ascent 2.4T 7-Pass - Touring, VIN Voice: S3430278, Sold Status: Not Sold
+Clicked on VIN link in row 0
+Extracted VIN from modal: 4S4WMAUD3S3430278
+Modal closed
+ VIN extracted: 4S4WMAUD3S3430278
+Search input filled with: 4S4WMAUD3S3430278
+ Search completed using VIN: 4S4WMAUD3S3430278
+Checked "Mark as Sold"
+Edited stock: Stock# = "745", Comment = "Mark as Sold Test", Sold = true
+Logged out successfully

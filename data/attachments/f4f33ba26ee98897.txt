@@ -1,0 +1,2 @@
+Error: No vehicle with Sold Status as "Not Sold" was found in the table
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:807:17

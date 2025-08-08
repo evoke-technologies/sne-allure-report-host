@@ -1,0 +1,15 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (49)" with count: 49
+Clicked dropdown icon at index 2
+Selected Trim option text: "DZA01 - BRZ Premium 2.0i - 6MT"
+Extracted Trim Code: DZA01
+Clicked Apply button for Trim filter
+Downloaded pdf file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.pdf
+Export validated for PDF: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.pdf
+Downloaded excel file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.xlsx
+Export validated for EXCEL: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.xlsx
+Downloaded csv file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.csv
+Export validated for CSV: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.csv

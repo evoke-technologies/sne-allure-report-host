@@ -1,0 +1,35 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (108)" with count: 108
+Clicked dropdown icon at index 0
+Selected Trim option text: "SCN51 - Ascent 2.4T 7-Pass - Touring"
+Extracted Trim Code: SCN51
+Clicked Apply button for Trim filter
+inside active model info method, model: Ascent count: 2
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 0
+Color popup is now visible
+Selected Color: SCN51 - Autumn Green Metallic
+Color filter applied
+inside active model info method, model: Ascent count: 1
+Model count changed: 2 → undefined
+Total Allocation dropdowns found: 8
+Using visible Allocation dropdown at index 0
+Clicked Allocation dropdown icon
+Allocation popup is visible
+Selected Allocation: 1273
+Clicked Apply for Allocation filter
+Found 8 Vehicle Status dropdown(s)
+Using visible Vehicle Status dropdown at index 0
+Clicked Vehicle Status dropdown icon
+Selected Vehicle Status:  Intransit
+Clicked Apply for Vehicle Status
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: S3430278
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: S3430278
+"Window Sticker & VIN/Invoice" sorted descending.

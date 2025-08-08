@@ -1,0 +1,14 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Clicked dropdown icon at index 0
+Selected Trim option text: "KCE23 - Ascent 2.4T Limited 7-Pass./Navi/HK/MR"
+Extracted Trim Code: KCE23
+Clicked Apply button for Trim filter
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: K3431119
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: K3431119
+"Window Sticker & VIN/Invoice" sorted descending.

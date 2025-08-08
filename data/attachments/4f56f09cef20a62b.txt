@@ -1,0 +1,11 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (108)" with count: 108
+Sort applied to "Window Sticker & VIN/Invoice" (asc): false
+Clicked dropdown icon at index 0
+Selected trim value: undefined
+Clicked Apply button for Trim filter
+Trim filter applied successfully
+ Sorting cleared from column "Window Sticker & VIN/Invoice" after filter was applied

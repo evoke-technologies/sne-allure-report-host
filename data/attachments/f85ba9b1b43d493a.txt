@@ -1,0 +1,2 @@
+No rows found in table for column "status". Skipping validation.
+No rows found in table for column "model". Skipping validation.

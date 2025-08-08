@@ -1,0 +1,26 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Lot (221)" with count: 221
+row count : 8
+Row 1 status: "On Lot"
+Row 2 status: "On Lot"
+Row 3 status: "On Lot"
+Row 4 status: "On Lot"
+Row 5 status: "On Lot"
+Row 6 status: "On Lot"
+Row 7 status: "On Lot"
+Row 8 status: "On Lot"
+All 8 rows matched status: "On Lot"
+Row 0 - Model: SCC12
+2025 Ascent 2.4T 7-Pass - Premium, VIN Voice: S3427718, Sold Status: Not Sold
+Clicked on VIN link in row 0
+Extracted VIN from modal: 4S4WMADD1S3427718
+Modal closed
+ VIN extracted: 4S4WMADD1S3427718
+Search input filled with: 4S4WMADD1S3427718
+ Search completed using VIN: 4S4WMADD1S3427718
+Checked "Mark as Sold"
+Edited stock: Stock# = "745", Comment = "Mark as Sold Test", Sold = true
+Logged out successfully

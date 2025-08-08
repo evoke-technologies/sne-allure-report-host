@@ -1,0 +1,1 @@
+Mismatch for model "WRX": Grid rows (4) ≠ Expected count (12)

@@ -1,0 +1,10 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Lot (83)" with count: 83
+row count : 2
+Row 1 status: "On Lot"
+Row 2 status: "On Lot"
+All 2 rows matched status: "On Lot"
+Logged out successfully

@@ -1,0 +1,6 @@
+locator.click: Error: strict mode violation: getByText('Subaru of Wakefield, MA') resolved to 2 elements:
+    1) <div _ngcontent-ng-c2028560883="">Subaru of Wakefield, MA</div> aka getByText('Subaru of Wakefield, MA').first()
+    2) <div _ngcontent-ng-c2028560883="">Subaru of Wakefield, MA</div> aka getByText('Subaru of Wakefield, MA').nth(1)
+
+Call log:
+[2m  - waiting for getByText('Subaru of Wakefield, MA')[22m

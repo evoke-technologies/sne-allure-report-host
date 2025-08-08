@@ -1,0 +1,35 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (11)" with count: 11
+Clicked dropdown icon at index 2
+Selected Trim option text: "SFJ42 - Forester 2.5L CVT Limited w/ HK Audio / NAVI / RAB"
+Extracted Trim Code: SFJ42
+Clicked Apply button for Trim filter
+inside active model info method, model: Forester count: 4
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 2
+Color popup is now visible
+Selected Color: SFJ42 - Crystal Black Silica
+Color filter applied
+inside active model info method, model: Forester count: 1
+Model count changed: 4 → undefined
+Total Allocation dropdowns found: 8
+Using visible Allocation dropdown at index 2
+Clicked Allocation dropdown icon
+Allocation popup is visible
+Selected Allocation: 1273
+Clicked Apply for Allocation filter
+Found 8 Vehicle Status dropdown(s)
+Using visible Vehicle Status dropdown at index 2
+Clicked Vehicle Status dropdown icon
+Selected Vehicle Status:  OnOrder
+Clicked Apply for Vehicle Status
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: 19144644
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: 19144644
+"Window Sticker & VIN/Invoice" sorted descending.

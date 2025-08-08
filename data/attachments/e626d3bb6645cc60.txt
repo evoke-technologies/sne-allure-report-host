@@ -1,0 +1,90 @@
+Error in clickAndExtractFirstVinForNotSoldVehicle: locator.waitFor: Timeout 7000ms exceeded.
+Call log:
+  - waiting for locator('modal-container[role="dialog"]') to be visible
+
+    at body (D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:779:41)
+    at body (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-js-commons\src\facade.ts:113:48)
+    at call (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:13:56)
+    at Generator._invoke (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at Generator.next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at asyncGeneratorStep (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at _next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1
+    at call (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:13:23)
+    at Generator._invoke (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at Generator.next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at asyncGeneratorStep (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at _next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1
+    at AllurePlaywrightTestRuntime.apply (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at AllurePlaywrightTestRuntime.step (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:12:13)
+    at callRuntimeMethod (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-js-commons\src\facade.ts:21:27)
+    at Object.step (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-js-commons\src\facade.ts:113:10)
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:778:26 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    stepId: 'pw:api@71',
+    location: {
+      file: 'D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js',
+      line: 779,
+      column: 41,
+      function: 'body'
+    },
+    category: 'pw:api',
+    title: `Wait for selector locator('modal-container[role="dialog"]')`,
+    apiName: 'locator.waitFor',
+    params: {
+      selector: 'modal-container[role="dialog"]',
+      strict: true,
+      omitReturnValue: true,
+      state: 'visible',
+      timeout: 7000
+    },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@71',
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1754639050728,
+    error: {
+      message: 'TimeoutError: locator.waitFor: Timeout 7000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('modal-container[role="dialog"]') to be visible\x1B[22m\n`,
+      stack: 'TimeoutError: locator.waitFor: Timeout 7000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('modal-container[role="dialog"]') to be visible\x1B[22m\n` +
+        '\n' +
+        '    at body (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js:779:41)\n' +
+        '    at body (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-js-commons\\src\\facade.ts:113:48)\n' +
+        '    at call (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:13:56)\n' +
+        '    at Generator._invoke (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1)\n' +
+        '    at Generator.next (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1)\n' +
+        '    at asyncGeneratorStep (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1)\n' +
+        '    at _next (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1)\n' +
+        '    at D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1\n' +
+        '    at D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1\n' +
+        '    at call (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:13:23)\n' +
+        '    at Generator._invoke (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1)\n' +
+        '    at Generator.next (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1)\n' +
+        '    at asyncGeneratorStep (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1)\n' +
+        '    at _next (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1)\n' +
+        '    at D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1\n' +
+        '    at AllurePlaywrightTestRuntime.apply (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:2:1)\n' +
+        '    at AllurePlaywrightTestRuntime.step (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-playwright\\src\\runtime.ts:12:13)\n' +
+        '    at callRuntimeMethod (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-js-commons\\src\\facade.ts:21:27)\n' +
+        '    at Object.step (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\node_modules\\allure-js-commons\\src\\facade.ts:113:10)\n' +
+        '    at D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js:778:26',
+      cause: undefined
+    }
+  }
+}
+ Error in extractVinAndSearchForNotSoldVehicle: locator.waitFor: Timeout 7000ms exceeded.
+Call log:
+  - waiting for locator('modal-container[role="dialog"]') to be visible
+

@@ -1,0 +1,20 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (345)" with count: 345
+Clicked dropdown icon at index 0
+Selected Trim option text: "KCE23 - Ascent 2.4T Limited 7-Pass./Navi/HK/MR"
+Extracted Trim Code: KCE23
+Clicked Apply button for Trim filter
+inside active model info method, model: Ascent count: 1
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 0
+Color popup is now visible
+Selected Color: KCE23 - Crystal Black Silica
+Color filter applied
+inside active model info method, model: Ascent count: 1
+Model count changed: 1 → undefined
+Clear Filters button hidden or reset after clearing filters
+All filters cleared successfully

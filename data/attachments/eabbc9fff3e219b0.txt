@@ -1,0 +1,45 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (124)" with count: 124
+Navigated to "Total Vehicles" tab with count: 124
+Total visible models: 9
+Model: "Ascent"
+Expected Count: 34
+Grid Rows Displayed: 34
+( Grid row count matches expected count.
+Model: "BRZ"
+Expected Count: 1
+Grid Rows Displayed: 34
+Error validating model "BRZ": Mismatch for model "BRZ": Grid rows (34) ≠ Expected count (1)
+Model: "Crosstrek"
+Expected Count: 18
+Grid Rows Displayed: 1
+Error validating model "Crosstrek": Mismatch for model "Crosstrek": Grid rows (1) ≠ Expected count (18)
+Model: "Forester"
+Expected Count: 28
+Grid Rows Displayed: 18
+Error validating model "Forester": Mismatch for model "Forester": Grid rows (18) ≠ Expected count (28)
+Model: "Impreza"
+Expected Count: 7
+Grid Rows Displayed: 7
+( Grid row count matches expected count.
+Model: "Legacy"
+Expected Count: 3
+Grid Rows Displayed: 3
+( Grid row count matches expected count.
+Model: "Outback"
+Expected Count: 27
+Grid Rows Displayed: 27
+( Grid row count matches expected count.
+Model: "Solterra"
+Expected Count: 2
+Grid Rows Displayed: 2
+( Grid row count matches expected count.
+Model: "WRX"
+Expected Count: 4
+Grid Rows Displayed: 4
+( Grid row count matches expected count.
+Sum of models: 124, Tab count: 124
+Logged out successfully

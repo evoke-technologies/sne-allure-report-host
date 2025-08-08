@@ -1,0 +1,9 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (36)" with count: 36
+row count : 2
+Row 1 status: "In Transit"
+Row 2 status: "In Transit"
+All 2 rows matched status: "In Transit"

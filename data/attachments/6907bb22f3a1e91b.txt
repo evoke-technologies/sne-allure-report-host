@@ -1,0 +1,20 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (11)" with count: 11
+Clicked dropdown icon at index 2
+Selected Trim option text: "SFJ42 - Forester 2.5L CVT Limited w/ HK Audio / NAVI / RAB"
+Extracted Trim Code: SFJ42
+Clicked Apply button for Trim filter
+clicked on header to sort
+comparing values: 19144644 & 19144654
+comparing values: 19144654 & 19144685
+Window Sticker & VIN/Invoice column is sorted in ascending order.
+Row 1 model: "SFJ42
+2025 Forester 2.5L CVT Limited w/ HK Audio / NAVI / RAB"
+Row 2 model: "SFJ42
+2025 Forester 2.5L CVT Limited w/ HK Audio / NAVI / RAB"
+Row 3 model: "SFJ42
+2025 Forester 2.5L CVT Limited w/ HK Audio / NAVI / RAB"
+ All 3 rows matched model: "SFJ42"

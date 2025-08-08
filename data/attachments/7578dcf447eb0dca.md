@@ -1,0 +1,114 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - list:
+    - listitem:
+      - button "Navigation":
+        - img "Navigation"
+    - listitem:
+      - img "Subaru of New England"
+    - listitem:
+      - link "location icon Subaru of New England Inc Norwood, MA 02062":
+        - /url: javascript:void(0)
+        - img "location icon"
+        - paragraph: Subaru of New England Inc
+        - paragraph: Norwood, MA 02062
+  - list:
+    - listitem
+    - listitem:
+      - img "subarunet"
+    - listitem:
+      - img "subaru logo"
+    - listitem: 
+- navigation "Side Navigation":
+  - list "main navigation list":
+    - listitem "Home":
+      - img "Home"
+    - listitem "Vehicles":
+      - img "Vehicles"
+    - listitem "Allocation":
+      - img "Allocation"
+    - listitem "Parts":
+      - img "Parts"
+    - listitem "Sales":
+      - img "Sales"
+    - listitem "Boston Port":
+      - img "Boston Port"
+    - listitem "Reports":
+      - img "Reports"
+    - listitem "Admin & Finance":
+      - img "Admin & Finance"
+    - listitem "Miscellaneous":
+      - img "Miscellaneous"
+  - list "Help and Feedback list":
+    - listitem "Help":
+      - link "Help":
+        - /url: "#"
+        - img "Help"
+    - listitem "Feedback":
+      - img "Feedback"
+- region "Vehicle Inventory":
+  - heading "Vehicle Inventory" [level=1]
+  - navigation "Module Navigation":
+    - list "Module Navigation":
+      - listitem: Vehicle Inventory
+      - listitem: Vehicle Inquiry
+      - listitem: Vehicle Locator
+      - listitem: Build-A-Car
+      - listitem: Retailer Delivery Records
+      - listitem: Transfer
+      - listitem: Reports
+- navigation "Breadcrumb Navigation":
+  - list "Breadcrumb Navigation":
+    - listitem: 
+    - listitem: / Vehicle
+    - listitem: / Vehicle Inventory
+- list:
+  - listitem:
+    - tab "Total Vehicles (115)"
+  - listitem:
+    - tab "On Lot (95)"
+  - listitem:
+    - tab "On Order (11)"
+  - listitem:
+    - tab "In Transit (9)"
+  - listitem:
+    - tab "Sold Vehicles (7)"
+  - listitem:
+    - tab "Buy a Demo (0)"
+  - listitem:
+    - tab "Mark as SSLP"
+  - listitem:
+    - tab "Hold at Port (0)"
+- tabpanel:
+  - img "stop build a car"
+  - paragraph: Retailer Not Registered For SSLP Program
+- navigation "Side Navigation":
+  - list "main navigation list":
+    - listitem "Home":
+      - img "Home"
+    - listitem "Vehicles":
+      - img "Vehicles"
+    - listitem "Allocation":
+      - img "Allocation"
+    - listitem "Parts":
+      - img "Parts"
+    - listitem "Sales":
+      - img "Sales"
+    - listitem "Boston Port":
+      - img "Boston Port"
+    - listitem "Reports":
+      - img "Reports"
+    - listitem "Admin & Finance":
+      - img "Admin & Finance"
+    - listitem "Miscellaneous":
+      - img "Miscellaneous"
+  - list "Help and Feedback list":
+    - listitem "Help":
+      - link "Help":
+        - /url: "#"
+        - img "Help"
+    - listitem "Feedback":
+      - img "Feedback"
+```

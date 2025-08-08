@@ -1,0 +1,2 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.

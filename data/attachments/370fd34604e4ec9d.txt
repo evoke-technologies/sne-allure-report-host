@@ -1,0 +1,27 @@
+Error while navigating to nav tab "On Order": locator.click: Test timeout of 100000ms exceeded.
+Call log:
+  - waiting for locator('//a[contains(@class, "nav-link") and contains(text(),"On Order")]')
+    - locator resolved to <a role="tab" tabindex="-1" class="nav-link" data-toggle="tab" aria-selected="false" _ngcontent-ng-c57738297="">On Order (0)</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    10 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+

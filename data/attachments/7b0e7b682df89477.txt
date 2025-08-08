@@ -1,0 +1,14 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Clicked dropdown icon at index 0
+Selected Trim option text: "SCH22 - Ascent 2.4T 7-Pass - Onyx Edition"
+Extracted Trim Code: SCH22
+Clicked Apply button for Trim filter
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: S3434598
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: S3434598
+"Window Sticker & VIN/Invoice" sorted descending.

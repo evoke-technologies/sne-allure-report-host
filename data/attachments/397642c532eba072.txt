@@ -1,0 +1,22 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (9)" with count: 9
+row count : 4
+Row 1 status: "In Transit"
+Row 2 status: "In Transit"
+Row 3 status: "In Transit"
+Row 4 status: "In Transit"
+All 4 rows matched status: "In Transit"
+Row 0 - Model: SRF32
+2025 Crosstrek 5D 2.5L CVT - Limited w/ HK Audio, VIN Voice: S3761696, Sold Status: Not Sold
+Clicked on VIN link in row 0
+Extracted VIN from modal: 4S4GUHM61S3761696
+Modal closed
+ VIN extracted: 4S4GUHM61S3761696
+Search input filled with: 4S4GUHM61S3761696
+ Search completed using VIN: 4S4GUHM61S3761696
+Checked "Mark as Sold"
+Edited stock: Stock# = "745", Comment = "Mark as Sold Test", Sold = true
+Logged out successfully

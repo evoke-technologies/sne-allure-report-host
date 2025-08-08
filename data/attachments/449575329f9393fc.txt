@@ -1,0 +1,24 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Lot (163)" with count: 163
+row count : 10
+Row 1 status: "On Lot"
+Row 2 status: "On Lot"
+Row 3 status: "On Lot"
+Row 4 status: "On Lot"
+Row 5 status: "On Lot"
+Row 6 status: "On Lot"
+Row 7 status: "On Lot"
+Row 8 status: "On Lot"
+Row 9 status: "On Lot"
+Row 10 status: "On Lot"
+All 10 rows matched status: "On Lot"
+"At Port" column is visible.
+Downloaded pdf file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.pdf
+Export validated for PDF: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.pdf
+Downloaded excel file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.xlsx
+Export validated for EXCEL: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.xlsx
+Downloaded csv file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.csv
+Export validated for CSV: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.csv

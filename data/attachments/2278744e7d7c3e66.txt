@@ -1,0 +1,23 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (67)" with count: 67
+row count : 4
+Row 1 status: "In Transit"
+Row 2 status: "In Transit"
+Row 3 status: "In Transit"
+Row 4 status: "In Transit"
+All 4 rows matched status: "In Transit"
+Search input filled with: Ascent
+row count : 4
+Row 1 model: "SCC12
+2025 Ascent 2.4T 7-Pass - Premium"
+Row 2 model: "SCC12
+2025 Ascent 2.4T 7-Pass - Premium"
+Row 3 model: "SCC12
+2025 Ascent 2.4T 7-Pass - Premium"
+Row 4 model: "SCH22
+2025 Ascent 2.4T 7-Pass - Onyx Edition"
+All 4 rows matched model: "Ascent"
+Logged out successfully

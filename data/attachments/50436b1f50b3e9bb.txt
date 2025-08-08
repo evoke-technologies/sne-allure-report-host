@@ -1,0 +1,29 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (36)" with count: 36
+row count : 2
+Row 1 status: "In Transit"
+Row 2 status: "In Transit"
+All 2 rows matched status: "In Transit"
+In Transit (36) count: 36
+inside active model info method, model: Ascent count: 2
+Validating pagination for model: "Ascent" with count: 2
+In Transit (36) count: 36
+In Transit (36) count: 36
+Page size "10" passed: 2 rows, "(2 items)", "1 of 1 pages"
+In Transit (36) count: 36
+In Transit (36) count: 36
+Page size "25" passed: 2 rows, "(2 items)", "1 of 1 pages"
+In Transit (36) count: 36
+In Transit (36) count: 36
+Page size "50" passed: 2 rows, "(2 items)", "1 of 1 pages"
+In Transit (36) count: 36
+In Transit (36) count: 36
+Page size "100" passed: 2 rows, "(2 items)", "1 of 1 pages"
+In Transit (36) count: 36
+In Transit (36) count: 36
+Page size "All" passed: 2 rows, "(2 items)", "1 of 1 pages"
+Pagination validation completed successfully for model "Ascent"
+Logged out successfully

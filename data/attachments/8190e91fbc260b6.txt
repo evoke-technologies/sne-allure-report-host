@@ -1,0 +1,116 @@
+Error toggling checkbox for "At Port": locator.click: Test timeout of 100000ms exceeded.
+Call log:
+  - waiting for locator('//button[@aria-label="Edit Columns"]')
+    - locator resolved to <button class="btn-icon" id="ColumnChooser" aria-label="Edit Columns" _ngcontent-ng-c2043307574="">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
+    at VehicleInventoryPage.toggleCheckboxAndValidate (D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:524:72)
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\tests\vehicle-inventory-validations.spec.js:989:23 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@78',
+    location: {
+      file: 'D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js',
+      line: 524,
+      column: 72,
+      function: 'VehicleInventoryPage.toggleCheckboxAndValidate'
+    },
+    category: 'pw:api',
+    title: `Click locator('//button[@aria-label="Edit Columns"]')`,
+    apiName: 'locator.click',
+    params: {
+      selector: '//button[@aria-label="Edit Columns"]',
+      strict: true,
+      timeout: 0
+    },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@78',
+      skip: [Function (anonymous)]
+    },
+    complete: [Function: complete],
+    endWallTime: 1754657160634,
+    error: {
+      message: 'Error: locator.click: Test timeout of 100000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('//button[@aria-label="Edit Columns"]')\x1B[22m\n` +
+        '\x1B[2m    - locator resolved to <button class="btn-icon" id="ColumnChooser" aria-label="Edit Columns" _ngcontent-ng-c2043307574="">…</button>\x1B[22m\n' +
+        '\x1B[2m  - attempting click action\x1B[22m\n' +
+        '\x1B[2m    2 × waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m      - done scrolling\x1B[22m\n' +
+        '\x1B[2m      - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m    - retrying click action\x1B[22m\n' +
+        '\x1B[2m    - waiting 20ms\x1B[22m\n' +
+        '\x1B[2m    2 × waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m      - done scrolling\x1B[22m\n' +
+        '\x1B[2m      - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m    - retrying click action\x1B[22m\n' +
+        '\x1B[2m      - waiting 100ms\x1B[22m\n' +
+        '\x1B[2m    - waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m    - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m    - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m    - done scrolling\x1B[22m\n' +
+        '\x1B[2m    - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m  - retrying click action\x1B[22m\n' +
+        '\x1B[2m    - waiting 500ms\x1B[22m\n',
+      stack: 'Error: locator.click: Test timeout of 100000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('//button[@aria-label="Edit Columns"]')\x1B[22m\n` +
+        '\x1B[2m    - locator resolved to <button class="btn-icon" id="ColumnChooser" aria-label="Edit Columns" _ngcontent-ng-c2043307574="">…</button>\x1B[22m\n' +
+        '\x1B[2m  - attempting click action\x1B[22m\n' +
+        '\x1B[2m    2 × waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m      - done scrolling\x1B[22m\n' +
+        '\x1B[2m      - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m    - retrying click action\x1B[22m\n' +
+        '\x1B[2m    - waiting 20ms\x1B[22m\n' +
+        '\x1B[2m    2 × waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m      - done scrolling\x1B[22m\n' +
+        '\x1B[2m      - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m    - retrying click action\x1B[22m\n' +
+        '\x1B[2m      - waiting 100ms\x1B[22m\n' +
+        '\x1B[2m    - waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m    - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m    - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m    - done scrolling\x1B[22m\n' +
+        '\x1B[2m    - <div class="spinner-overlay" _ngcontent-ng-c2122016403="">…</div> from <app-spinner id="app-spinner" _nghost-ng-c2122016403="">…</app-spinner> subtree intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m  - retrying click action\x1B[22m\n' +
+        '\x1B[2m    - waiting 500ms\x1B[22m\n' +
+        '\n' +
+        '    at VehicleInventoryPage.toggleCheckboxAndValidate (D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\pages\\VehicleInventoryPage.js:524:72)\n' +
+        '    at D:\\Auto_Projs\\SNE_TEST_AUTOMATION\\tests\\vehicle-inventory-validations.spec.js:989:23',
+      cause: undefined
+    }
+  }
+}

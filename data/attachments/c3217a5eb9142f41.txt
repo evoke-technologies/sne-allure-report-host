@@ -1,0 +1,3 @@
+Error while navigating to nav tab "Total Vehicles": locator.waitFor: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('//a[contains(@class, "nav-link") and contains(text(),"Total Vehicles")]') to be visible[22m

@@ -1,0 +1,1 @@
+No vehicle with Sold Status as "Not Sold" was found in the table

@@ -1,0 +1,15 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (67)" with count: 67
+Clicked dropdown icon at index 3
+Selected Trim option text: "SCC12 - Ascent 2.4T 7-Pass - Premium"
+Extracted Trim Code: SCC12
+Clicked Apply button for Trim filter
+Downloaded pdf file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.pdf
+Export validated for PDF: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.pdf
+Downloaded excel file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.xlsx
+Export validated for EXCEL: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.xlsx
+Downloaded csv file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.csv
+Export validated for CSV: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.csv

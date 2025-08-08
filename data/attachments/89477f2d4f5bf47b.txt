@@ -1,0 +1,34 @@
+locator.waitFor: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class, \'tab-pane\') and contains(@class, \'active\')]//div[@class=\'vehicle-item active\']//span[contains(@class, \'vtitle\')]') to be visible[22m
+
+    at waitForVisible (D:\Auto_Projs\SNE_TEST_AUTOMATION\Utilities\waitUtils.js:4:17)
+    at VehicleInventoryPage.getActiveModelName (D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:1148:11)
+    at body (D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:1164:35)
+    at body (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-js-commons\src\facade.ts:113:48)
+    at call (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:13:56)
+    at Generator._invoke (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at Generator.next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at asyncGeneratorStep (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at _next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1
+    at call (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:13:23)
+    at Generator._invoke (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at Generator.next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at asyncGeneratorStep (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at _next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1
+    at AllurePlaywrightTestRuntime.apply (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at AllurePlaywrightTestRuntime.step (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:12:13)
+    at callRuntimeMethod (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-js-commons\src\facade.ts:21:27)
+    at Object.step (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-js-commons\src\facade.ts:113:10)
+    at body (D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:1163:40)
+    at body (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-js-commons\src\facade.ts:113:48)
+    at call (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:13:56)
+    at Generator._invoke (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at Generator.next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at asyncGeneratorStep (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at _next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1

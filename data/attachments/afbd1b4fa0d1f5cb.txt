@@ -1,0 +1,24 @@
+locator.waitFor: Timeout 7000ms exceeded.
+Call log:
+[2m  - waiting for locator('modal-container[role="dialog"]') to be visible[22m
+
+    at body (D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:779:41)
+    at body (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-js-commons\src\facade.ts:113:48)
+    at call (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:13:56)
+    at Generator._invoke (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at Generator.next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at asyncGeneratorStep (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at _next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1
+    at call (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:13:23)
+    at Generator._invoke (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at Generator.next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at asyncGeneratorStep (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at _next (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1
+    at AllurePlaywrightTestRuntime.apply (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:2:1)
+    at AllurePlaywrightTestRuntime.step (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-playwright\src\runtime.ts:12:13)
+    at callRuntimeMethod (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-js-commons\src\facade.ts:21:27)
+    at Object.step (D:\Auto_Projs\SNE_TEST_AUTOMATION\node_modules\allure-js-commons\src\facade.ts:113:10)
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:778:26

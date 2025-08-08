@@ -1,0 +1,32 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Mark as SSLP " with count: 0
+Clicked dropdown icon at index 6
+Selected Trim option text: "SRB14 - Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Extracted Trim Code: SRB14
+Clicked Apply button for Trim filter
+Search input filled with: SRB14
+Row 1 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Row 2 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Row 3 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Row 4 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Row 5 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Row 6 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Row 7 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Row 8 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Row 9 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Row 10 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+ All 10 rows matched model: "SRB14"
+Logged out successfully

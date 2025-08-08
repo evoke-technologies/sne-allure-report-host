@@ -1,0 +1,1 @@
+Mismatch for model "BRZ": Grid rows (8) ≠ Expected count (4)

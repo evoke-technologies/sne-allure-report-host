@@ -1,0 +1,69 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Lot (95)" with count: 95
+row count : 10
+Row 1 status: "On Lot"
+Row 2 status: "On Lot"
+Row 3 status: "On Lot"
+Row 4 status: "On Lot"
+Row 5 status: "On Lot"
+Row 6 status: "On Lot"
+Row 7 status: "On Lot"
+Row 8 status: "On Lot"
+Row 9 status: "On Lot"
+Row 10 status: "On Lot"
+All 10 rows matched status: "On Lot"
+Search input filled with: Ascent
+row count : 24
+Row 1 model: "SCC12
+2025 Ascent 2.4T 7-Pass - Premium"
+Row 2 model: "SCC12
+2025 Ascent 2.4T 7-Pass - Premium"
+Row 3 model: "SCC12
+2025 Ascent 2.4T 7-Pass - Premium"
+Row 4 model: "SCK32
+2025 Ascent 2.4T 8-Pass - Limited"
+Row 5 model: "SCK32
+2025 Ascent 2.4T 8-Pass - Limited"
+Row 6 model: "SCK32
+2025 Ascent 2.4T 8-Pass - Limited"
+Row 7 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 8 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 9 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 10 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 11 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 12 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 13 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 14 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 15 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 16 model: "SCL32
+2025 Ascent 2.4T 7-Pass - Limited"
+Row 17 model: "SCN51
+2025 Ascent 2.4T 7-Pass - Touring"
+Row 18 model: "SCN51
+2025 Ascent 2.4T 7-Pass - Touring"
+Row 19 model: "SCN51
+2025 Ascent 2.4T 7-Pass - Touring"
+Row 20 model: "SCN51
+2025 Ascent 2.4T 7-Pass - Touring"
+Row 21 model: "SCN51
+2025 Ascent 2.4T 7-Pass - Touring"
+Row 22 model: "SCN51
+2025 Ascent 2.4T 7-Pass - Touring"
+Row 23 model: "SCP61
+2025 Ascent 2.4T 7-Pass - Onyx Edition Touring"
+Row 24 model: "SCP61
+2025 Ascent 2.4T 7-Pass - Onyx Edition Touring"
+All 24 rows matched model: "Ascent"
+Logged out successfully

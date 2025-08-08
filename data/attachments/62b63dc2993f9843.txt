@@ -1,0 +1,14 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (265)" with count: 265
+Clicked dropdown icon at index 2
+Selected Trim option text: "KCE23 - Ascent 2.4T Limited 7-Pass./Navi/HK/MR"
+Extracted Trim Code: KCE23
+Clicked Apply button for Trim filter
+clicked on header to sort
+Window Sticker & VIN/Invoice column is sorted in ascending order.
+Row 1 model: "KCE23
+2019 Ascent 2.4T Limited 7-Pass./Navi/HK/MR"
+ All 1 rows matched model: "KCE23"

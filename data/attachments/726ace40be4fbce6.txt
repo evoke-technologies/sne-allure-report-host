@@ -1,0 +1,9 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (1073)" with count: 1073
+Row 0 skipped (Sold Status: Sold)
+Row 1 - Model: SCN51
+2025 Ascent 2.4T 7-Pass - Touring, VIN Voice: 19189693, Sold Status: Not Sold
+Clicked on VIN link in row 1

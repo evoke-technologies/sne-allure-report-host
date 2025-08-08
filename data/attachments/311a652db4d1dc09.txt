@@ -1,0 +1,21 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Mark as SSLP " with count: 0
+inside active model info method, model: Crosstrek count: 50
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 6
+Color popup is now visible
+Selected Color: SRF32 - Alpine Green
+Color filter applied
+inside active model info method, model: Crosstrek count: 2
+Model count changed: 50 → undefined
+Row 1 color: "AP1
+Alpine Green"
+Row 2 color: "AP1
+Alpine Green"
+ All 2 rows matched color: "Alpine Green"
+Print PDF saved for undefined
+Logged out successfully

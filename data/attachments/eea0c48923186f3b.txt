@@ -1,0 +1,28 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (114)" with count: 114
+row count : 10
+Row 1 status: "In Transit"
+Row 2 status: "In Transit"
+Row 3 status: "In Transit"
+Row 4 status: "In Transit"
+Row 5 status: "In Transit"
+Row 6 status: "In Transit"
+Row 7 status: "In Transit"
+Row 8 status: "In Transit"
+Row 9 status: "In Transit"
+Row 10 status: "In Transit"
+All 10 rows matched status: "In Transit"
+Row 0 - Model: SCB12
+2025 Ascent 2.4T 8-Pass - Premium w/Conv Pkg, VIN Voice: S3431154, Sold Status: Not Sold
+Clicked on VIN link in row 0
+Extracted VIN from modal: 4S4WMAAD6S3431154
+Modal closed
+ VIN extracted: 4S4WMAAD6S3431154
+Search input filled with: 4S4WMAAD6S3431154
+ Search completed using VIN: 4S4WMAAD6S3431154
+Checked "Mark as Sold"
+Edited stock: Stock# = "745", Comment = "Mark as Sold Test", Sold = true
+Logged out successfully

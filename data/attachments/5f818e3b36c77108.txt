@@ -1,0 +1,4 @@
+No rows found in table for column "status". Skipping validation.
+Error in clickAndExtractFirstVinForNotSoldVehicle: Error: No vehicle with Sold Status as "Not Sold" was found in the table
+    at D:\Auto_Projs\SNE_TEST_AUTOMATION\pages\VehicleInventoryPage.js:807:17
+ Error in extractVinAndSearchForNotSoldVehicle: No vehicle with Sold Status as "Not Sold" was found in the table

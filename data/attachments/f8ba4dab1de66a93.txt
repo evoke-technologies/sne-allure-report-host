@@ -1,0 +1,14 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Tab 1: Total Vehicles (124)
+Tab 2: On Lot (98)
+Tab 3: On Order (6)
+Tab 4: In Transit (20)
+Tab 5: Sold Vehicles (0)
+Tab 6: Buy a Demo (0)
+Tab 7: Mark as SSLP
+Tab 8: Hold at Port (0)
+Total 8 tabs displayed.
+Logged out successfully

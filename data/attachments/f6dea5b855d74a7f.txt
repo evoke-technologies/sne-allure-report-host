@@ -1,0 +1,8 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (115)" with count: 115
+Vehicles item is displayed from breadcrumb list items
+Invenotry item is displayed from breadcrumb list items
+Logged out successfully

@@ -1,0 +1,22 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Lot (37)" with count: 37
+clicked on header to sort
+comparing values: S3746839 & S3751221
+comparing values: S3751221 & S3755344
+comparing values: S3755344 & S3757104
+comparing values: S3757104 & S3759553
+comparing values: S3759553 & S3760667
+comparing values: S3760667 & S3761030
+comparing values: S3761030 & S3763188
+comparing values: S3763188 & S8283072
+comparing values: S8283072 & S8297604
+Window Sticker & VIN/Invoice column is sorted in ascending order.
+Clicked dropdown icon at index 1
+Selected Trim option text: "SRA03 - Crosstrek 5D 2.0L CVT"
+Extracted Trim Code: SRA03
+Clicked Apply button for Trim filter
+"At Port" column is visible.
+Logged out successfully

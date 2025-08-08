@@ -1,0 +1,20 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (265)" with count: 265
+row count : 6
+Row 1 status: "On Order"
+Row 2 status: "On Order"
+Row 3 status: "On Order"
+Row 4 status: "On Order"
+Row 5 status: "On Order"
+Row 6 status: "On Order"
+All 6 rows matched status: "On Order"
+"At Port" column is visible.
+Downloaded pdf file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.pdf
+Export validated for PDF: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.pdf
+Downloaded excel file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.xlsx
+Export validated for EXCEL: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.xlsx
+Downloaded csv file saved to: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.csv
+Export validated for CSV: D:\Auto_Projs\SNE_TEST_AUTOMATION\test-downloads\Inventory.csv

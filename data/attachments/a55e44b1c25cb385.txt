@@ -1,0 +1,13 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Mark as SSLP " with count: 0
+inside active model info method, model: Ascent count: 6
+Active model name: Ascent
+option: SCC12 - Ascent 2.4T 7-Pass - Premium
+option: SCL32 - Ascent 2.4T 7-Pass - Limited
+option: SCN51 - Ascent 2.4T 7-Pass - Touring
+option: SCP61 - Ascent 2.4T 7-Pass - Onyx Edition Touring
+ All Trim dropdown options contain "Ascent"
+Logged out successfully

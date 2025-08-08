@@ -1,0 +1,28 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Mark as SSLP " with count: 0
+inside active model info method, model: Ascent count: 1
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 6
+Color popup is now visible
+Selected Color: RCK23 - Crystal White Pearl
+Color filter applied
+inside active model info method, model: Ascent count: 1
+Model count changed: 1 → undefined
+inside active model info method, model: Ascent count: 1
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 6
+Color popup is now visible
+Selected Color: RCK23 - Crystal White Pearl
+Removed disabled attribute from Apply button
+Color filter applied
+inside active model info method, model: Ascent count: 1
+Model count changed: 1 → undefined
+Color is selected and applied RCK23 - Crystal White Pearl
+Row 1 color: "WH1 Crystal White Pearl"
+ 1 rows matched color: "Crystal White Pearl"
+Logged out successfully

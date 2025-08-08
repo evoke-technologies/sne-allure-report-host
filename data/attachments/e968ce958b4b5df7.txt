@@ -1,0 +1,20 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (20)" with count: 20
+row count : 10
+Row 1 status: "In Transit"
+Row 2 status: "In Transit"
+Row 3 status: "In Transit"
+Row 4 status: "In Transit"
+Row 5 status: "In Transit"
+Row 6 status: "In Transit"
+Row 7 status: "In Transit"
+Row 8 status: "In Transit"
+Row 9 status: "In Transit"
+Row 10 status: "In Transit"
+All 10 rows matched status: "In Transit"
+Clicked dropdown icon at index 3
+Selected Trim option text: "SCK32 - Ascent 2.4T 8-Pass - Limited"
+Extracted Trim Code: SCK32

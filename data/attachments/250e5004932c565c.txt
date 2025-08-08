@@ -1,0 +1,31 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (843)" with count: 843
+row count : 4
+Row 1 status: "On Order"
+Row 2 status: "On Order"
+Row 3 status: "On Order"
+Row 4 status: "On Order"
+All 4 rows matched status: "On Order"
+On Order (843) count: 843
+inside active model info method, model: Ascent count: 4
+Validating pagination for model: "Ascent" with count: 4
+On Order (843) count: 843
+On Order (843) count: 843
+Page size "10" passed: 4 rows, "(4 items)", "1 of 1 pages"
+On Order (843) count: 843
+On Order (843) count: 843
+Page size "25" passed: 4 rows, "(4 items)", "1 of 1 pages"
+On Order (843) count: 843
+On Order (843) count: 843
+Page size "50" passed: 4 rows, "(4 items)", "1 of 1 pages"
+On Order (843) count: 843
+On Order (843) count: 843
+Page size "100" passed: 4 rows, "(4 items)", "1 of 1 pages"
+On Order (843) count: 843
+On Order (843) count: 843
+Page size "All" passed: 4 rows, "(4 items)", "1 of 1 pages"
+Pagination validation completed successfully for model "Ascent"
+Logged out successfully

@@ -1,0 +1,29 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (265)" with count: 265
+row count : 6
+Row 1 status: "On Order"
+Row 2 status: "On Order"
+Row 3 status: "On Order"
+Row 4 status: "On Order"
+Row 5 status: "On Order"
+Row 6 status: "On Order"
+All 6 rows matched status: "On Order"
+Search input filled with: Ascent
+row count : 6
+Row 1 model: "SCC12
+2025 Ascent 2.4T 7-Pass - Premium"
+Row 2 model: "SCN51
+2025 Ascent 2.4T 7-Pass - Touring"
+Row 3 model: "LCC12
+2020 Ascent 2.4T Premium 7-Pass./PRG/Keyless/RAB"
+Row 4 model: "KCE23
+2019 Ascent 2.4T Limited 7-Pass./Navi/HK/MR"
+Row 5 model: "LCG31
+2020 Ascent 2.4T Touring 7-Pass./Navi/HK/MR CVT CVT"
+Row 6 model: "KCG31
+2019 Ascent 2.4T Touring 7-Pass./Navi/HK/MR CVT CVT"
+All 6 rows matched model: "Ascent"
+Logged out successfully

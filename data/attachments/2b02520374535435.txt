@@ -1,0 +1,14 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Clicked dropdown icon at index 0
+Selected Trim option text: "FRC13 - XV Crosstrek 5D 2.0i Premium w/MR CVT"
+Extracted Trim Code: FRC13
+Clicked Apply button for Trim filter
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: F8210904
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: F8210904
+"Window Sticker & VIN/Invoice" sorted descending.
