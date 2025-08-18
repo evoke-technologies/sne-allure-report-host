@@ -1,0 +1,33 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Lot (138)" with count: 138
+Highest Stock Car for SSLP: { name: 'Crosstrek', quantity: 41 }
+Name: Crosstrek
+Quantity: 41
+Model selected: Crosstrek
+Extracted Invoice: S3756928
+Selected model: Crosstrek
+Row: 1, VIN Voice: S3756928, Sold Status: Not Sold
+Clicked on VIN link in first row
+Extracted VIN from modal: 4S4GUHM64S3756928
+Modal closed
+Initial sold status: Not Sold for VIN: 4S4GUHM64S3756928
+Search input filled with: 4S4GUHM64S3756928
+Checked "Mark as Sold"
+Edited stock: Stock# = "7", Comment = "Mark as sold - automated", Sold = true
+Search input filled with: 4S4GUHM64S3756928
+row count : 10
+Row 1 soldStatus: "Sold"
+All 1 rows matched soldStatus: "sold"
+✅ VIN 4S4GUHM64S3756928 status updated to: sold
+Search input filled with: 4S4GUHM64S3756928
+Unchecked "Mark as Sold"
+Edited stock: Stock# = "7", Comment = "Mark as not sold - toggle back", Sold = false
+Search input filled with: 4S4GUHM64S3756928
+row count : 10
+Row 1 soldStatus: "Not Sold"
+All 1 rows matched soldStatus: "not sold"
+ VIN 4S4GUHM64S3756928 status updated back to: not sold
+Logged out successfully

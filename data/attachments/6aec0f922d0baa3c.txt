@@ -1,0 +1,33 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (740)" with count: 740
+Highest Stock Car for SSLP: { name: 'Forester', quantity: 254 }
+Name: Forester
+Quantity: 254
+Model selected: Forester
+Extracted Invoice: L3413397
+Selected model: Forester
+Row: 1, VIN Voice: L3413397, Sold Status: Not Sold
+Clicked on VIN link in first row
+Extracted VIN from modal: JF1SF63501H714625
+Modal closed
+Initial sold status: Not Sold for VIN: JF1SF63501H714625
+Search input filled with: JF1SF63501H714625
+Checked "Mark as Sold"
+Edited stock: Stock# = "7", Comment = "Mark as sold - automated", Sold = true
+Search input filled with: JF1SF63501H714625
+row count : 10
+Row 1 soldStatus: "Sold"
+All 1 rows matched soldStatus: "sold"
+✅ VIN JF1SF63501H714625 status updated to: sold
+Search input filled with: JF1SF63501H714625
+Unchecked "Mark as Sold"
+Edited stock: Stock# = "7", Comment = "Mark as not sold - toggle back", Sold = false
+Search input filled with: JF1SF63501H714625
+row count : 10
+Row 1 soldStatus: "Not Sold"
+All 1 rows matched soldStatus: "not sold"
+ VIN JF1SF63501H714625 status updated back to: not sold
+Logged out successfully

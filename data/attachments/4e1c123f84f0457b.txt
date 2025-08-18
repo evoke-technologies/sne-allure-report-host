@@ -1,0 +1,29 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+ Starting: Vehicles Page
+ Clicked on "Vehicles" link in the left nav bar.
+ Navigated to "Mark as SSLP" tab.
+Highest Stock Car for SSLP: { name: 'Crosstrek', quantity: 41 }
+Name: Crosstrek
+Quantity: 41
+Model selected: Crosstrek
+Extracted Invoice: S3756928
+ Clicked "Mark as SSLP" button.
+ Modal appeared.
+popup message :  for the vehicle SRF32 - 2025 Crosstrek 5D 2.5L CVT - Limited w/ HK Audio  with VIN - 4S4GUHM64S3756928 
+ Extracted VIN: 4S4GUHM64S3756928
+ Clicked "Yes" on modal.
+Searching for VIN: 4S4GUHM64S3756928
+ Clicked on search input box
+Verified active SSLP list is empty via "0 of 0 pages (0 item)" message.
+ Clicked "SSLP Vehicles Archive" tab
+ Clicking on model image: Crosstrek
+Searching for VIN: 4S4GUHM64S3756928
+ Clicked on search input box
+ Verified single result page
+Extracted Invoice: S3756928
+ Verified invoice "S3756928" in archive
+Able to see the mark as sslp record in archive tab
+Logged out successfully

@@ -1,0 +1,1 @@
+Edited stock: Stock# = "7", Comment = "Mark as sold - toggle back", Sold = true
