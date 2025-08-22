@@ -1,0 +1,165 @@
+ Failed clicking vehicle image button: locator.click: Test timeout of 300000ms exceeded.
+Call log:
+  - waiting for getByRole('img', { name: 'Ascent' })
+    - locator resolved to <img loading="lazy" _ngcontent-ng-c2455993786="" alt="Ascent                   " src="https://stgcdnserviceqa.blob.core.windows.net/static/images/Ascent.png"/>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div _ngcontent-ng-c2455993786="" class="e-toolbar-item e-template">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div _ngcontent-ng-c2455993786="" class="e-toolbar-item e-template">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    - waiting for element to be visible, enabled and stable
+    - element is not stable
+  427 × retrying click action
+        - waiting 500ms
+        - waiting for element to be visible, enabled and stable
+        - element is visible, enabled and stable
+        - scrolling into view if needed
+        - done scrolling
+        - <div _ngcontent-ng-c2455993786="" class="e-toolbar-item e-template">…</div> intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
+    at D:\Playwright-SNE\SNE-Automation\pages\VehicleRDRpage.js:92:56 {
+  [Symbol(step)]: {
+    location: {
+      file: 'D:\\Playwright-SNE\\SNE-Automation\\pages\\VehicleRDRpage.js',
+      line: 92,
+      column: 56
+    },
+    category: 'pw:api',
+    title: "Click getByRole('img', { name: 'Ascent' })",
+    apiName: 'locator.click',
+    params: {
+      selector: 'internal:role=img[name="Ascent"i]',
+      strict: true,
+      timeout: 0
+    },
+    group: undefined,
+    stepId: 'pw:api@89',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@89',
+      _title: "Click getByRole('img', { name: 'Ascent' })",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    recoverFromStepError: [AsyncFunction: recoverFromStepError],
+    complete: [Function: complete],
+    endWallTime: 1755847099592,
+    error: {
+      message: 'Error: locator.click: Test timeout of 300000ms exceeded.\n' +
+        'Call log:\n' +
+        "\x1B[2m  - waiting for getByRole('img', { name: 'Ascent' })\x1B[22m\n" +
+        '\x1B[2m    - locator resolved to <img loading="lazy" _ngcontent-ng-c2455993786="" alt="Ascent                   " src="https://stgcdnserviceqa.blob.core.windows.net/static/images/Ascent.png"/>\x1B[22m\n' +
+        '\x1B[2m  - attempting click action\x1B[22m\n' +
+        '\x1B[2m    2 × waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m      - done scrolling\x1B[22m\n' +
+        '\x1B[2m      - <div _ngcontent-ng-c2455993786="" class="e-toolbar-item e-template">…</div> intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m    - retrying click action\x1B[22m\n' +
+        '\x1B[2m    - waiting 20ms\x1B[22m\n' +
+        '\x1B[2m    2 × waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m      - done scrolling\x1B[22m\n' +
+        '\x1B[2m      - <div _ngcontent-ng-c2455993786="" class="e-toolbar-item e-template">…</div> intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m    - retrying click action\x1B[22m\n' +
+        '\x1B[2m      - waiting 100ms\x1B[22m\n' +
+        '\x1B[2m    - waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m    - element is not stable\x1B[22m\n' +
+        '\x1B[2m  427 × retrying click action\x1B[22m\n' +
+        '\x1B[2m        - waiting 500ms\x1B[22m\n' +
+        '\x1B[2m        - waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m        - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m        - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m        - done scrolling\x1B[22m\n' +
+        '\x1B[2m        - <div _ngcontent-ng-c2455993786="" class="e-toolbar-item e-template">…</div> intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m  - retrying click action\x1B[22m\n' +
+        '\x1B[2m    - waiting 500ms\x1B[22m\n',
+      stack: 'Error: locator.click: Test timeout of 300000ms exceeded.\n' +
+        'Call log:\n' +
+        "\x1B[2m  - waiting for getByRole('img', { name: 'Ascent' })\x1B[22m\n" +
+        '\x1B[2m    - locator resolved to <img loading="lazy" _ngcontent-ng-c2455993786="" alt="Ascent                   " src="https://stgcdnserviceqa.blob.core.windows.net/static/images/Ascent.png"/>\x1B[22m\n' +
+        '\x1B[2m  - attempting click action\x1B[22m\n' +
+        '\x1B[2m    2 × waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m      - done scrolling\x1B[22m\n' +
+        '\x1B[2m      - <div _ngcontent-ng-c2455993786="" class="e-toolbar-item e-template">…</div> intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m    - retrying click action\x1B[22m\n' +
+        '\x1B[2m    - waiting 20ms\x1B[22m\n' +
+        '\x1B[2m    2 × waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m      - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m      - done scrolling\x1B[22m\n' +
+        '\x1B[2m      - <div _ngcontent-ng-c2455993786="" class="e-toolbar-item e-template">…</div> intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m    - retrying click action\x1B[22m\n' +
+        '\x1B[2m      - waiting 100ms\x1B[22m\n' +
+        '\x1B[2m    - waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m    - element is not stable\x1B[22m\n' +
+        '\x1B[2m  427 × retrying click action\x1B[22m\n' +
+        '\x1B[2m        - waiting 500ms\x1B[22m\n' +
+        '\x1B[2m        - waiting for element to be visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m        - element is visible, enabled and stable\x1B[22m\n' +
+        '\x1B[2m        - scrolling into view if needed\x1B[22m\n' +
+        '\x1B[2m        - done scrolling\x1B[22m\n' +
+        '\x1B[2m        - <div _ngcontent-ng-c2455993786="" class="e-toolbar-item e-template">…</div> intercepts pointer events\x1B[22m\n' +
+        '\x1B[2m  - retrying click action\x1B[22m\n' +
+        '\x1B[2m    - waiting 500ms\x1B[22m\n' +
+        '\n' +
+        '    at D:\\Playwright-SNE\\SNE-Automation\\pages\\VehicleRDRpage.js:92:56',
+      cause: undefined
+    }
+  }
+}
+Error clicking model with count > 0: page.screenshot: Target page, context or browser has been closed
+    at D:\Playwright-SNE\SNE-Automation\pages\VehicleRDRpage.js:109:63 {
+  [Symbol(step)]: {
+    location: {
+      file: 'D:\\Playwright-SNE\\SNE-Automation\\pages\\VehicleRDRpage.js',
+      line: 109,
+      column: 63
+    },
+    category: 'pw:api',
+    title: 'Screenshot',
+    apiName: 'page.screenshot',
+    params: { mask: undefined, timeout: 0, type: undefined },
+    group: undefined,
+    stepId: 'pw:api@95',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@95',
+      _title: 'Screenshot',
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    recoverFromStepError: [AsyncFunction: recoverFromStepError],
+    complete: [Function: complete],
+    endWallTime: 1755847099595,
+    error: {
+      message: 'Error: page.screenshot: Target page, context or browser has been closed',
+      stack: 'Error: page.screenshot: Target page, context or browser has been closed\n' +
+        '    at D:\\Playwright-SNE\\SNE-Automation\\pages\\VehicleRDRpage.js:109:63',
+      cause: undefined
+    }
+  }
+}

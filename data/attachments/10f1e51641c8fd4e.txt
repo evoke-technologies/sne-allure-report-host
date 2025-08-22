@@ -1,0 +1,36 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Successfully clicked "Retailer Delivery Records"
+Navigated to nav tab "Report New RDR/Sale " with count: 0
+Cars banner was identified:  [
+  'Ascent                   (1)',
+  'BRZ                      (0)',
+  'Crosstrek                (17)',
+  'Forester                 (9)',
+  'Impreza                  (0)',
+  'Legacy                   (1)',
+  'Outback                  (4)',
+  'Solterra                 (0)',
+  'WRX(0)'
+]
+Highest Stock Car for SSLP: { name: 'Crosstrek', quantity: 17 }
+Name: Crosstrek
+Quantity: 17
+Model selected: Crosstrek
+Extracted Invoice: S3736684
+Clicked action button in last column of first row
+Extracted VIN: S3736684
+Modal is visible and contains the expected text.
+Filled Sales & Business details and confirmed successfully.
+Thank You modal message: Thank You for Reporting RDR/Sale
+Validating VIN: S3736684 
+Validating Model: SRF31 - Crosstrek 5D 2.5L CVT - Limited
+First row Modeltext: "SRF31
+2025 Crosstrek 5D 2.5L CVT - Limited" (normalized: "srf312025crosstrek5d2.5lcvt-limited")
+Expected value: "Crosstrek 5D 2.5L CVT" (normalized: "crosstrek5d2.5lcvt")
+ First row matches Modeltext: "Crosstrek 5D 2.5L CVT"
+First row vinVoice: "S3736684" (normalized: "s3736684")
+Expected value: "S3736684" (normalized: "s3736684")
+ First row matches vinVoice: "S3736684"

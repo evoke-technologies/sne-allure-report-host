@@ -1,0 +1,25 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Successfully clicked "Retailer Delivery Records"
+Navigated to nav tab "Report New RDR/Sale " with count: 0
+Cars banner was identified:  [
+  'Ascent                   (23)',
+  'BRZ                      (1)',
+  'Crosstrek                (12)',
+  'Forester                 (25)',
+  'Impreza                  (2)',
+  'Legacy                   (2)',
+  'Outback                  (27)',
+  'Solterra                 (2)',
+  'WRX(4)'
+]
+Highest Stock Car for SSLP: { name: 'Outback', quantity: 27 }
+Name: Outback
+Quantity: 27
+Model selected: Outback
+Extracted Invoice: S3262284
+Clicked action button in last column of first row
+Extracted VIN: S3262284
+Modal is visible and contains the expected text.

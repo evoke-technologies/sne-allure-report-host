@@ -1,0 +1,20 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Successfully clicked "Retailer Delivery Records"
+Navigated to nav tab "Report New RDR/Sale " with count: 0
+Cars banner was identified:  [
+  'Ascent                   (0)',
+  'BRZ                      (0)',
+  'Crosstrek                (0)',
+  'Forester                 (0)',
+  'Impreza                  (0)',
+  'Legacy                   (0)',
+  'Outback                  (0)',
+  'Solterra                 (0)',
+  'WRX(0)'
+]
+Highest Stock Car for SSLP: { name: 'Ascent', quantity: 0 }
+Name: Ascent
+Quantity: 0

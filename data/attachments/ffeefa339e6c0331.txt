@@ -1,0 +1,36 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Successfully clicked "Retailer Delivery Records"
+Navigated to nav tab "Report New RDR/Sale " with count: 0
+Cars banner was identified:  [
+  'Ascent                   (0)',
+  'BRZ                      (0)',
+  'Crosstrek                (15)',
+  'Forester                 (16)',
+  'Impreza                  (0)',
+  'Legacy                   (8)',
+  'Outback                  (4)',
+  'Solterra                 (0)',
+  'WRX(0)'
+]
+Highest Stock Car for SSLP: { name: 'Forester', quantity: 16 }
+Name: Forester
+Quantity: 16
+Model selected: Forester
+Extracted Invoice: SH402400
+Clicked action button in last column of first row
+Extracted VIN: SH402400
+Modal is visible and contains the expected text.
+Filled Sales & Business details and confirmed successfully.
+Thank You modal message: Thank You for Reporting RDR/Sale
+Validating VIN: SH402400 
+Validating Model: SFH33 - Forester 2.5L CVT Wilderness w/ NAV
+First row Modeltext: "SFH33
+2025 Forester 2.5L CVT Wilderness w/ NAV" (normalized: "sfh332025forester2.5lcvtwildernessw/nav")
+Expected value: "Forester 2.5L CVT Wilderness w/ NAV" (normalized: "forester2.5lcvtwildernessw/nav")
+ First row matches Modeltext: "Forester 2.5L CVT Wilderness w/ NAV"
+First row vinVoice: "SH402400" (normalized: "sh402400")
+Expected value: "SH402400" (normalized: "sh402400")
+ First row matches vinVoice: "SH402400"

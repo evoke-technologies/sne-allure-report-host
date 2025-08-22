@@ -1,0 +1,36 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Successfully clicked "Retailer Delivery Records"
+Navigated to nav tab "Report New RDR/Sale " with count: 0
+Cars banner was identified:  [
+  'Ascent                   (0)',
+  'BRZ                      (0)',
+  'Crosstrek                (5)',
+  'Forester                 (5)',
+  'Impreza                  (2)',
+  'Legacy                   (0)',
+  'Outback                  (6)',
+  'Solterra                 (0)',
+  'WRX(0)'
+]
+Highest Stock Car for SSLP: { name: 'Outback', quantity: 6 }
+Name: Outback
+Quantity: 6
+Model selected: Outback
+Extracted Invoice: S3281751
+Clicked action button in last column of first row
+Extracted VIN: S3281751
+Modal is visible and contains the expected text.
+Filled Sales & Business details and confirmed successfully.
+Thank You modal message: Thank You for Reporting RDR/Sale
+Validating VIN: S3281751 
+Validating Model: SDB01 - Outback 2.5L DI CVT
+First row Modeltext: "SDB01
+2025 Outback 2.5L DI CVT" (normalized: "sdb012025outback2.5ldicvt")
+Expected value: "Outback 2.5L DI CVT" (normalized: "outback2.5ldicvt")
+ First row matches Modeltext: "Outback 2.5L DI CVT"
+First row vinVoice: "S3281751" (normalized: "s3281751")
+Expected value: "S3281751" (normalized: "s3281751")
+ First row matches vinVoice: "S3281751"
