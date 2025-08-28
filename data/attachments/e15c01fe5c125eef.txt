@@ -1,0 +1,2 @@
+Error: No rows found in the vehicle table
+    at D:\Playwright-SNE\SNE-Automation\pages\VehicleInventoryPage.js:859:17

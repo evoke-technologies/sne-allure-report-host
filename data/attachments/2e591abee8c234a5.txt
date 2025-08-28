@@ -1,0 +1,39 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Lot (104)" with count: 104
+Found 8 Vehicle Status dropdown(s)
+Using visible Vehicle Status dropdown at index 1
+Clicked Vehicle Status dropdown icon
+Selected Vehicle Status:  OnLot
+Clicked Apply for Vehicle Status
+Total Allocation dropdowns found: 8
+Using visible Allocation dropdown at index 1
+Clicked Allocation dropdown icon
+Allocation popup is visible
+Selected Allocation: 1269
+Clicked Apply for Allocation filter
+inside active model info method, model: Crosstrek count: 1
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 1
+Color popup is now visible
+Selected Color: SRB14 - Crystal White Pearl
+Color filter applied
+inside active model info method, model: Crosstrek count: 1
+Model count changed: 1 → undefined
+Clicked dropdown icon at index 1
+Selected Trim option text: "SRB14 - Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+Extracted Trim Code: SRB14
+Clicked Apply button for Trim filter
+Row 1 status: "On Lot"
+ All 1 rows matched status: "OnLot"
+Row 1 allocation: "1269"
+ All 1 rows matched allocation: "1269"
+Row 1 color: "WH2
+Crystal White Pearl"
+ All 1 rows matched color: "Crystal White Pearl"
+Row 1 model: "SRB14
+2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg"
+ All 1 rows matched model: "SRB14"

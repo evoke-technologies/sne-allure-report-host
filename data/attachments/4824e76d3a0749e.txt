@@ -1,0 +1,35 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (943)" with count: 943
+Clicked dropdown icon at index 0
+Selected Trim option text: "LCB12 - Ascent 2.4T Premium 8-Pass./PRG/Keyless/RAB"
+Extracted Trim Code: LCB12
+Clicked Apply button for Trim filter
+inside active model info method, model: Ascent count: 1
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 0
+Color popup is now visible
+Selected Color: LCB12 - Crystal White Pearl
+Color filter applied
+inside active model info method, model: Ascent count: 1
+Model count changed: 1 → undefined
+Total Allocation dropdowns found: 8
+Using visible Allocation dropdown at index 0
+Clicked Allocation dropdown icon
+Allocation popup is visible
+Selected Allocation: 1198
+Clicked Apply for Allocation filter
+Found 8 Vehicle Status dropdown(s)
+Using visible Vehicle Status dropdown at index 0
+Clicked Vehicle Status dropdown icon
+Selected Vehicle Status:  OnOrder
+Clicked Apply for Vehicle Status
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: L3413397
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: L3413397
+"Window Sticker & VIN/Invoice" sorted descending.

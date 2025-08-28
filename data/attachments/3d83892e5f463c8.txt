@@ -1,0 +1,6 @@
+locator.textContent: Test timeout of 300000ms exceeded.
+Call log:
+[2m  - waiting for locator('//div[contains(@class, \'tab-pane\') and contains(@class, \'active\')]//div[@class=\'vehicle-item active\']//span[contains(@class, \'vtitle\')]')[22m
+
+    at VehicleInventoryPage.getActiveModelName (D:\Playwright-SNE\SNE-Automation\pages\VehicleInventoryPage.js:1262:42)
+    at D:\Playwright-SNE\SNE-Automation\pages\VehicleInventoryPage.js:1274:24

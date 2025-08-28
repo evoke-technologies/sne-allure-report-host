@@ -1,0 +1,5 @@
+locator.innerHTML: Test timeout of 300000ms exceeded.
+Call log:
+[2m  - waiting for locator('modal-container[role="dialog"]')[22m
+
+    at D:\Playwright-SNE\SNE-Automation\pages\VehicleInventoryPage.js:922:57

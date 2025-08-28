@@ -1,0 +1,9 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (943)" with count: 943
+Row 0 skipped (Sold Status: Reserved)
+Row 1 skipped (Sold Status: )
+Row 2 skipped (Sold Status: Reserved)
+Row 3 skipped (Sold Status: )

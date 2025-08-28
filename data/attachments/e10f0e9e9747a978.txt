@@ -1,0 +1,4 @@
+No rows found in table for column "status". Skipping validation.
+Error in clickAndExtractFirstVinForNotSoldVehicle: Error: No rows found in the vehicle table
+    at D:\Playwright-SNE\SNE-Automation\pages\VehicleInventoryPage.js:859:17
+ Error in extractVinAndSearchForNotSoldVehicle: No rows found in the vehicle table

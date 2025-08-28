@@ -1,0 +1,51 @@
+Error validating trim options for active model: locator.textContent: Test timeout of 300000ms exceeded.
+Call log:
+  - waiting for locator('//div[contains(@class, \'tab-pane\') and contains(@class, \'active\')]//div[@class=\'vehicle-item active\']//span[contains(@class, \'vtitle\')]')
+
+    at VehicleInventoryPage.getActiveModelName (D:\Playwright-SNE\SNE-Automation\pages\VehicleInventoryPage.js:1262:42)
+    at D:\Playwright-SNE\SNE-Automation\pages\VehicleInventoryPage.js:1274:24 {
+  [Symbol(step)]: {
+    location: {
+      file: 'D:\\Playwright-SNE\\SNE-Automation\\pages\\VehicleInventoryPage.js',
+      line: 1262,
+      column: 42,
+      function: 'VehicleInventoryPage.getActiveModelName'
+    },
+    category: 'pw:api',
+    title: "Get text content locator('//div[contains(@class, \\'tab-pane\\') and contains(@class, \\'active\\')]//div[@class=\\'vehicle-item active\\']//span[contains(@class, \\'vtitle\\')]')",
+    apiName: 'locator.textContent',
+    params: {
+      selector: "//div[contains(@class, 'tab-pane') and contains(@class, 'active')]//div[@class='vehicle-item active']//span[contains(@class, 'vtitle')]",
+      strict: true,
+      timeout: 0
+    },
+    group: 'getter',
+    stepId: 'pw:api@84',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@84',
+      _title: "Get text content locator('//div[contains(@class, \\'tab-pane\\') and contains(@class, \\'active\\')]//div[@class=\\'vehicle-item active\\']//span[contains(@class, \\'vtitle\\')]')",
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    recoverFromStepError: [AsyncFunction: recoverFromStepError],
+    complete: [Function: complete],
+    endWallTime: 1756378537277,
+    error: {
+      message: 'Error: locator.textContent: Test timeout of 300000ms exceeded.\n' +
+        'Call log:\n' +
+        "\x1B[2m  - waiting for locator('//div[contains(@class, \\'tab-pane\\') and contains(@class, \\'active\\')]//div[@class=\\'vehicle-item active\\']//span[contains(@class, \\'vtitle\\')]')\x1B[22m\n",
+      stack: 'Error: locator.textContent: Test timeout of 300000ms exceeded.\n' +
+        'Call log:\n' +
+        "\x1B[2m  - waiting for locator('//div[contains(@class, \\'tab-pane\\') and contains(@class, \\'active\\')]//div[@class=\\'vehicle-item active\\']//span[contains(@class, \\'vtitle\\')]')\x1B[22m\n" +
+        '\n' +
+        '    at VehicleInventoryPage.getActiveModelName (D:\\Playwright-SNE\\SNE-Automation\\pages\\VehicleInventoryPage.js:1262:42)\n' +
+        '    at D:\\Playwright-SNE\\SNE-Automation\\pages\\VehicleInventoryPage.js:1274:24',
+      cause: undefined
+    }
+  }
+}

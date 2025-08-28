@@ -1,0 +1,13 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Order (740)" with count: 740
+Clicked dropdown icon at index 2
+Selected Trim option text: "LCB12 - Ascent 2.4T Premium 8-Pass./PRG/Keyless/RAB"
+Extracted Trim Code: LCB12
+Clicked Apply button for Trim filter
+Clear Filters button text: Clear Filters (1)
+Filters applied count detected: 1
+Clear Filters button count reset or button hidden after clearing filters
+ Filters cleared successfully

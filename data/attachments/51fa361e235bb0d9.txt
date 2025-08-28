@@ -1,0 +1,51 @@
+Error in openAndCloseFirstVinPopup: locator.waitFor: Timeout 7000ms exceeded.
+Call log:
+  - waiting for locator('modal-container[role="dialog"]') to be visible
+
+    at D:\Playwright-SNE\SNE-Automation\pages\VehicleInventoryPage.js:2758:33 {
+  name: 'TimeoutError',
+  [Symbol(step)]: {
+    location: {
+      file: 'D:\\Playwright-SNE\\SNE-Automation\\pages\\VehicleInventoryPage.js',
+      line: 2758,
+      column: 33
+    },
+    category: 'pw:api',
+    title: `Wait for selector locator('modal-container[role="dialog"]')`,
+    apiName: 'locator.waitFor',
+    params: {
+      selector: 'modal-container[role="dialog"]',
+      strict: true,
+      omitReturnValue: true,
+      state: 'visible',
+      timeout: 7000
+    },
+    group: undefined,
+    stepId: 'pw:api@76',
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@76',
+      _title: `Wait for selector locator('modal-container[role="dialog"]')`,
+      _parentStep: [TestStepInfoImpl],
+      skip: [Function (anonymous)]
+    },
+    recoverFromStepError: [AsyncFunction: recoverFromStepError],
+    complete: [Function: complete],
+    endWallTime: 1756380536428,
+    error: {
+      message: 'TimeoutError: locator.waitFor: Timeout 7000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('modal-container[role="dialog"]') to be visible\x1B[22m\n`,
+      stack: 'TimeoutError: locator.waitFor: Timeout 7000ms exceeded.\n' +
+        'Call log:\n' +
+        `\x1B[2m  - waiting for locator('modal-container[role="dialog"]') to be visible\x1B[22m\n` +
+        '\n' +
+        '    at D:\\Playwright-SNE\\SNE-Automation\\pages\\VehicleInventoryPage.js:2758:33',
+      cause: undefined
+    }
+  }
+}
