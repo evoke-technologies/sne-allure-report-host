@@ -1,0 +1,35 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Lot (104)" with count: 104
+Clicked dropdown icon at index 1
+Selected Trim option text: "SRB13 - Crosstrek 5D 2.5L CVT - Premium"
+Extracted Trim Code: SRB13
+Clicked Apply button for Trim filter
+inside active model info method, model: Crosstrek count: 4
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 1
+Color popup is now visible
+Selected Color: SRB13 - Ice Silver Metallic
+Color filter applied
+inside active model info method, model: Crosstrek count: 2
+Model count changed: 4 → undefined
+Total Allocation dropdowns found: 8
+Using visible Allocation dropdown at index 1
+Clicked Allocation dropdown icon
+Allocation popup is visible
+Selected Allocation: 1272
+Clicked Apply for Allocation filter
+Found 8 Vehicle Status dropdown(s)
+Using visible Vehicle Status dropdown at index 1
+Clicked Vehicle Status dropdown icon
+Selected Vehicle Status:  OnLot
+Apply button not visible — skipping
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: SH289802
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: SH289802
+"Window Sticker & VIN/Invoice" sorted descending.

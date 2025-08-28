@@ -1,0 +1,926 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic:
+    - banner [ref=e5]:
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - button "Navigation" [ref=e8] [cursor=pointer]:
+            - img "Navigation" [ref=e9] [cursor=pointer]
+        - listitem [ref=e10]:
+          - img "Subaru of New England" [ref=e11]
+        - listitem [ref=e12]:
+          - link "location icon Mitchell Subaru Canton, CT 06019" [ref=e13] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "location icon" [ref=e14] [cursor=pointer]
+            - generic [ref=e15] [cursor=pointer]:
+              - paragraph [ref=e16] [cursor=pointer]: Mitchell Subaru
+              - paragraph [ref=e17] [cursor=pointer]: Canton, CT 06019
+      - list [ref=e18]:
+        - listitem
+        - listitem [ref=e19]:
+          - img "subarunet" [ref=e20]
+        - listitem [ref=e21]:
+          - img "subaru logo" [ref=e22]
+        - listitem [ref=e23]:
+          - generic [ref=e24]: 
+    - navigation "Side Navigation" [ref=e25]:
+      - list "main navigation list" [ref=e26]:
+        - listitem "Home" [ref=e27]:
+          - img "Home" [ref=e29] [cursor=pointer]
+        - listitem "Vehicles" [ref=e30]:
+          - img "Vehicles" [ref=e32] [cursor=pointer]
+        - listitem "Allocation" [ref=e33]:
+          - img "Allocation" [ref=e35] [cursor=pointer]
+        - listitem "Parts" [ref=e36]:
+          - img "Parts" [ref=e38] [cursor=pointer]
+        - listitem "Sales" [ref=e39]:
+          - img "Sales" [ref=e41] [cursor=pointer]
+        - listitem "Boston Port" [ref=e42]:
+          - img "Boston Port" [ref=e44] [cursor=pointer]
+        - listitem "Reports" [ref=e45]:
+          - img "Reports" [ref=e47] [cursor=pointer]
+        - listitem "Admin & Finance" [ref=e48]:
+          - img "Admin & Finance" [ref=e50] [cursor=pointer]
+        - listitem "Miscellaneous" [ref=e51]:
+          - img "Miscellaneous" [ref=e53] [cursor=pointer]
+      - list "Help and Feedback list" [ref=e54]:
+        - listitem "Help" [ref=e55]:
+          - link "Help" [ref=e56] [cursor=pointer]:
+            - /url: "#"
+            - img "Help" [ref=e57] [cursor=pointer]
+        - listitem "Feedback" [ref=e58]:
+          - img "Feedback" [ref=e60] [cursor=pointer]
+    - text:                     
+  - region "Vehicle Inventory" [ref=e62]:
+    - heading "Vehicle Inventory" [level=1] [ref=e64]
+    - navigation "Module Navigation" [ref=e65]:
+      - list "Module Navigation" [ref=e66]:
+        - listitem [ref=e67]:
+          - generic [ref=e68] [cursor=pointer]: Vehicle Inventory
+        - listitem [ref=e69]:
+          - generic [ref=e70] [cursor=pointer]: Vehicle Inquiry
+        - listitem [ref=e71]:
+          - generic [ref=e72] [cursor=pointer]: Vehicle Locator
+        - listitem [ref=e73]:
+          - generic [ref=e74] [cursor=pointer]: Build-A-Car
+        - listitem [ref=e75]:
+          - generic [ref=e76] [cursor=pointer]: Retailer Delivery Records
+        - listitem [ref=e77]:
+          - generic [ref=e78] [cursor=pointer]: Transfer
+        - listitem [ref=e79]:
+          - generic [ref=e80] [cursor=pointer]: Reports
+  - generic [ref=e81]:
+    - navigation "Breadcrumb Navigation" [ref=e84]:
+      - list "Breadcrumb Navigation" [ref=e85]:
+        - listitem [ref=e86]:
+          - generic [ref=e87] [cursor=pointer]: 
+        - listitem [ref=e88]:
+          - text: /
+          - generic [ref=e89] [cursor=pointer]: Vehicle
+        - listitem [ref=e90]:
+          - text: /
+          - generic [ref=e91]: Vehicle Inventory
+    - generic [ref=e92]:
+      - generic [ref=e93]:
+        - generic [ref=e94]:
+          - list [ref=e95]:
+            - listitem [ref=e96]:
+              - tab "Total Vehicles (943)" [ref=e97] [cursor=pointer]
+            - listitem [ref=e98]:
+              - tab "On Lot (104)" [ref=e99] [cursor=pointer]
+            - listitem [ref=e100]:
+              - tab "On Order (740)" [ref=e101] [cursor=pointer]
+            - listitem [ref=e102]:
+              - tab "In Transit (99)" [ref=e103] [cursor=pointer]
+            - listitem [ref=e104]:
+              - tab "Sold Vehicles (3)" [ref=e105] [cursor=pointer]
+            - listitem [ref=e106]:
+              - tab "Buy a Demo (0)" [ref=e107] [cursor=pointer]
+            - listitem [ref=e108]:
+              - tab "Mark as SSLP" [ref=e109] [cursor=pointer]
+            - listitem [ref=e110]:
+              - tab "Hold at Port (0)" [ref=e111] [cursor=pointer]
+          - generic [ref=e112]:
+            - text:          
+            - tabpanel [ref=e113]:
+              - generic [ref=e114]:
+                - toolbar [ref=e117]:
+                  - generic [ref=e118]:
+                    - generic [ref=e119] [cursor=pointer]:
+                      - generic:
+                        - img "Ascent"
+                        - generic:
+                          - generic: Ascent
+                          - generic: (0)
+                    - generic [ref=e120] [cursor=pointer]:
+                      - generic:
+                        - img "BRZ"
+                        - generic:
+                          - generic: BRZ
+                          - generic: (0)
+                    - generic [ref=e122] [cursor=pointer]:
+                      - img "Crosstrek" [ref=e123] [cursor=pointer]
+                      - generic [ref=e124] [cursor=pointer]:
+                        - generic [ref=e125] [cursor=pointer]: Crosstrek
+                        - generic [ref=e126] [cursor=pointer]: (21)
+                    - generic [ref=e128] [cursor=pointer]:
+                      - img "Forester" [ref=e129] [cursor=pointer]
+                      - generic [ref=e130] [cursor=pointer]:
+                        - generic [ref=e131] [cursor=pointer]: Forester
+                        - generic [ref=e132] [cursor=pointer]: (23)
+                    - generic [ref=e134] [cursor=pointer]:
+                      - img "Impreza" [ref=e135] [cursor=pointer]
+                      - generic [ref=e136] [cursor=pointer]:
+                        - generic [ref=e137] [cursor=pointer]: Impreza
+                        - generic [ref=e138] [cursor=pointer]: (18)
+                    - generic [ref=e140] [cursor=pointer]:
+                      - img "Legacy" [ref=e141] [cursor=pointer]
+                      - generic [ref=e142] [cursor=pointer]:
+                        - generic [ref=e143] [cursor=pointer]: Legacy
+                        - generic [ref=e144] [cursor=pointer]: (18)
+                    - generic [ref=e146] [cursor=pointer]:
+                      - img "Outback" [ref=e147] [cursor=pointer]
+                      - generic [ref=e148] [cursor=pointer]:
+                        - generic [ref=e149] [cursor=pointer]: Outback
+                        - generic [ref=e150] [cursor=pointer]: (22)
+                    - generic [ref=e151] [cursor=pointer]:
+                      - generic:
+                        - img "Solterra"
+                        - generic:
+                          - generic: Solterra
+                          - generic: (0)
+                    - generic [ref=e153] [cursor=pointer]:
+                      - img "WRX" [ref=e154] [cursor=pointer]
+                      - generic [ref=e155] [cursor=pointer]:
+                        - generic [ref=e156] [cursor=pointer]: WRX
+                        - generic [ref=e157] [cursor=pointer]: (2)
+                - list [ref=e158]:
+                  - listitem [ref=e159]:
+                    - button "Filters" [ref=e160] [cursor=pointer]:
+                      - img "Filter" [ref=e161] [cursor=pointer]
+                      - generic [ref=e162] [cursor=pointer]: Filters
+                  - listitem [ref=e163]:
+                    - generic [ref=e166]:
+                      - text: 
+                      - generic [ref=e167]:
+                        - generic:
+                          - combobox "multiselect"
+                        - text: 
+                        - generic [ref=e168] [cursor=pointer]: 
+                  - listitem [ref=e169]:
+                    - generic [ref=e172]:
+                      - text: 
+                      - generic [ref=e173]:
+                        - generic:
+                          - combobox "multiselect"
+                        - text: 
+                        - generic [ref=e174] [cursor=pointer]: 
+                  - listitem [ref=e175]:
+                    - generic [ref=e178]:
+                      - text: 
+                      - generic [ref=e179]:
+                        - generic:
+                          - combobox "multiselect"
+                        - text: 
+                        - generic [ref=e180] [cursor=pointer]: 
+                  - listitem [ref=e181]:
+                    - combobox "dropdownlist" [ref=e184] [cursor=pointer]:
+                      - combobox "dropdownlist"
+                      - generic [ref=e185] [cursor=pointer]: 
+              - heading "On Lot Vehicle List" [level=3] [ref=e187]:
+                - generic [ref=e188]: On Lot
+                - generic [ref=e189]: Vehicle
+                - text: List
+            - text:                                                            
+        - grid [ref=e192]:
+          - generic [ref=e195]:
+            - generic [ref=e196]:
+              - combobox "Select page size" [ref=e198]:
+                - option "10 rows"
+                - option "25 rows"
+                - option "50 rows"
+                - option "100 rows"
+                - option "All" [selected]
+              - generic [ref=e199]:
+                - button "search" [ref=e200] [cursor=pointer]:
+                  - img "search-icon" [ref=e201] [cursor=pointer]
+                - textbox "search" [ref=e202]
+            - generic [ref=e203]:
+              - button "Edit Columns" [ref=e205] [cursor=pointer]:
+                - generic [ref=e206] [cursor=pointer]: 
+                - generic [ref=e207] [cursor=pointer]: Edit Columns
+              - button "Export" [ref=e209] [cursor=pointer]:
+                - generic [ref=e210] [cursor=pointer]: 
+                - generic [ref=e211] [cursor=pointer]: Export
+              - button "Print" [ref=e212] [cursor=pointer]:
+                - generic [ref=e213] [cursor=pointer]: 
+                - generic [ref=e214] [cursor=pointer]: Print
+          - rowgroup [ref=e230]:
+            - row "Window Sticker & VIN/Invoice Model Color Edit Stock# Retailer ETA Allocation MSRP PNVW Vehicle Status At Port Reserved Status Actions" [ref=e231]:
+              - columnheader "Window Sticker & VIN/Invoice" [ref=e232] [cursor=pointer]:
+                - generic [ref=e234] [cursor=pointer]: Window Sticker & VIN/Invoice
+              - columnheader "Model" [ref=e237] [cursor=pointer]:
+                - generic [ref=e239] [cursor=pointer]: Model
+              - columnheader "Color" [ref=e242] [cursor=pointer]:
+                - generic [ref=e244] [cursor=pointer]: Color
+              - columnheader "Edit Stock#" [ref=e247] [cursor=pointer]:
+                - generic [ref=e249] [cursor=pointer]: Edit Stock#
+              - columnheader "Retailer ETA" [ref=e252] [cursor=pointer]:
+                - generic [ref=e254] [cursor=pointer]: Retailer ETA
+              - columnheader "Allocation" [ref=e257] [cursor=pointer]:
+                - generic [ref=e259] [cursor=pointer]: Allocation
+              - columnheader "MSRP" [ref=e262] [cursor=pointer]:
+                - generic [ref=e264] [cursor=pointer]: MSRP
+              - columnheader "PNVW" [ref=e267] [cursor=pointer]:
+                - generic [ref=e269] [cursor=pointer]: PNVW
+              - columnheader "Vehicle Status" [ref=e272] [cursor=pointer]:
+                - generic [ref=e274] [cursor=pointer]: Vehicle Status
+              - columnheader "At Port" [ref=e277] [cursor=pointer]:
+                - generic [ref=e279] [cursor=pointer]: At Port
+              - columnheader "Reserved Status" [ref=e282] [cursor=pointer]:
+                - generic [ref=e284] [cursor=pointer]: Reserved Status
+              - columnheader "Actions" [ref=e287]:
+                - generic [ref=e289]: Actions
+          - rowgroup [ref=e307]:
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e308]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e309]:
+                - generic [ref=e310]:
+                  - img "window-sticker" [ref=e312] [cursor=pointer]
+                  - generic [ref=e313] [cursor=pointer]: SH280869
+              - gridcell "is template cell column header Model" [ref=e314]:
+                - generic [ref=e315]: SRB14
+                - generic [ref=e316]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e317]:
+                - generic [ref=e318]: OF3
+                - generic [ref=e319]: Offshore Blue Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e320]:
+                - generic [ref=e321]:
+                  - generic [ref=e323]: 76922T
+                  - button "Edit Stock" [ref=e325] [cursor=pointer]:
+                    - generic [ref=e326] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e327]
+              - gridcell "is template cell column header Allocation" [ref=e328]:
+                - generic [ref=e329]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e330]:
+                - generic [ref=e331]: $32,541.00
+              - gridcell "is template cell column header PNVW" [ref=e332]:
+                - generic [ref=e333]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e334]:
+                - generic [ref=e335]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e336]
+              - gridcell "is template cell column header Reserved Status" [ref=e337]
+              - gridcell "is template cell column header Actions" [ref=e338]:
+                - button "Actions" [ref=e339] [cursor=pointer]:
+                  - generic [ref=e340] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e341]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e342]:
+                - generic [ref=e343]:
+                  - img "window-sticker" [ref=e345] [cursor=pointer]
+                  - generic [ref=e346] [cursor=pointer]: SH289802
+              - gridcell "is template cell column header Model" [ref=e347]:
+                - generic [ref=e348]: SRB13
+                - generic [ref=e349]: 2025 Crosstrek 5D 2.5L CVT - Premium
+              - gridcell "is template cell column header Color" [ref=e350]:
+                - generic [ref=e351]: IS2
+                - generic [ref=e352]: Ice Silver Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e353]:
+                - generic [ref=e354]:
+                  - generic [ref=e356]: 77001T
+                  - button "Edit Stock" [ref=e358] [cursor=pointer]:
+                    - generic [ref=e359] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e360]
+              - gridcell "is template cell column header Allocation" [ref=e361]:
+                - generic [ref=e362]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e363]:
+                - generic [ref=e364]: $29,745.00
+              - gridcell "is template cell column header PNVW" [ref=e365]:
+                - generic [ref=e366]: $333.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e367]:
+                - generic [ref=e368]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e369]
+              - gridcell "is template cell column header Reserved Status" [ref=e370]
+              - gridcell "is template cell column header Actions" [ref=e371]:
+                - button "Actions" [ref=e372] [cursor=pointer]:
+                  - generic [ref=e373] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e374]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e375]:
+                - generic [ref=e376]:
+                  - img "window-sticker" [ref=e378] [cursor=pointer]
+                  - generic [ref=e379] [cursor=pointer]: SH293784
+              - gridcell "is template cell column header Model" [ref=e380]:
+                - generic [ref=e381]: SRB13
+                - generic [ref=e382]: 2025 Crosstrek 5D 2.5L CVT - Premium
+              - gridcell "is template cell column header Color" [ref=e383]:
+                - generic [ref=e384]: IS2
+                - generic [ref=e385]: Ice Silver Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e386]:
+                - generic [ref=e387]:
+                  - generic [ref=e389]: 77031T
+                  - button "Edit Stock" [ref=e391] [cursor=pointer]:
+                    - generic [ref=e392] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e393]
+              - gridcell "is template cell column header Allocation" [ref=e394]:
+                - generic [ref=e395]: "1273"
+              - gridcell "is template cell column header MSRP" [ref=e396]:
+                - generic [ref=e397]: $29,999.00
+              - gridcell "is template cell column header PNVW" [ref=e398]:
+                - generic [ref=e399]: $497.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e400]:
+                - generic [ref=e401]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e402]
+              - gridcell "is template cell column header Reserved Status" [ref=e403]
+              - gridcell "is template cell column header Actions" [ref=e404]:
+                - button "Actions" [ref=e405] [cursor=pointer]:
+                  - generic [ref=e406] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e407]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e408]:
+                - generic [ref=e409]:
+                  - img "window-sticker" [ref=e411] [cursor=pointer]
+                  - generic [ref=e412] [cursor=pointer]: S8280204
+              - gridcell "is template cell column header Model" [ref=e413]:
+                - generic [ref=e414]: SRB14
+                - generic [ref=e415]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e416]:
+                - generic [ref=e417]: SP2
+                - generic [ref=e418]: Sapphire Blue Pearl
+              - gridcell "is template cell column header Edit Stock#" [ref=e419]:
+                - generic [ref=e420]:
+                  - generic [ref=e422]: 76917T
+                  - button "Edit Stock" [ref=e424] [cursor=pointer]:
+                    - generic [ref=e425] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e426]
+              - gridcell "is template cell column header Allocation" [ref=e427]:
+                - generic [ref=e428]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e429]:
+                - generic [ref=e430]: $32,146.00
+              - gridcell "is template cell column header PNVW" [ref=e431]:
+                - generic [ref=e432]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e433]:
+                - generic [ref=e434]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e435]
+              - gridcell "is template cell column header Reserved Status" [ref=e436]
+              - gridcell "is template cell column header Actions" [ref=e437]:
+                - button "Actions" [ref=e438] [cursor=pointer]:
+                  - generic [ref=e439] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e440]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e441]:
+                - generic [ref=e442]:
+                  - img "window-sticker" [ref=e444] [cursor=pointer]
+                  - generic [ref=e445] [cursor=pointer]: S8283975
+              - gridcell "is template cell column header Model" [ref=e446]:
+                - generic [ref=e447]: SRB14
+                - generic [ref=e448]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e449]:
+                - generic [ref=e450]: IS2
+                - generic [ref=e451]: Ice Silver Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e452]:
+                - generic [ref=e453]:
+                  - generic [ref=e455]: 76910T
+                  - button "Edit Stock" [ref=e457] [cursor=pointer]:
+                    - generic [ref=e458] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e459]
+              - gridcell "is template cell column header Allocation" [ref=e460]:
+                - generic [ref=e461]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e462]:
+                - generic [ref=e463]: $32,146.00
+              - gridcell "is template cell column header PNVW" [ref=e464]:
+                - generic [ref=e465]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e466]:
+                - generic [ref=e467]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e468]
+              - gridcell "is template cell column header Reserved Status" [ref=e469]
+              - gridcell "is template cell column header Actions" [ref=e470]:
+                - button "Actions" [ref=e471] [cursor=pointer]:
+                  - generic [ref=e472] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e473]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e474]:
+                - generic [ref=e475]:
+                  - img "window-sticker" [ref=e477] [cursor=pointer]
+                  - generic [ref=e478] [cursor=pointer]: SH276542
+              - gridcell "is template cell column header Model" [ref=e479]:
+                - generic [ref=e480]: SRB14
+                - generic [ref=e481]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e482]:
+                - generic [ref=e483]: SL1
+                - generic [ref=e484]: Sun Blaze Pearl
+              - gridcell "is template cell column header Edit Stock#" [ref=e485]:
+                - generic [ref=e486]:
+                  - generic [ref=e488]: 76902T
+                  - button "Edit Stock" [ref=e490] [cursor=pointer]:
+                    - generic [ref=e491] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e492]
+              - gridcell "is template cell column header Allocation" [ref=e493]:
+                - generic [ref=e494]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e495]:
+                - generic [ref=e496]: $32,146.00
+              - gridcell "is template cell column header PNVW" [ref=e497]:
+                - generic [ref=e498]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e499]:
+                - generic [ref=e500]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e501]
+              - gridcell "is template cell column header Reserved Status" [ref=e502]
+              - gridcell "is template cell column header Actions" [ref=e503]:
+                - button "Actions" [ref=e504] [cursor=pointer]:
+                  - generic [ref=e505] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e506]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e507]:
+                - generic [ref=e508]:
+                  - img "window-sticker" [ref=e510] [cursor=pointer]
+                  - generic [ref=e511] [cursor=pointer]: SH284432
+              - gridcell "is template cell column header Model" [ref=e512]:
+                - generic [ref=e513]: SRB14
+                - generic [ref=e514]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e515]:
+                - generic [ref=e516]: IS2
+                - generic [ref=e517]: Ice Silver Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e518]:
+                - generic [ref=e519]:
+                  - generic [ref=e521]: 76913T
+                  - button "Edit Stock" [ref=e523] [cursor=pointer]:
+                    - generic [ref=e524] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e525]
+              - gridcell "is template cell column header Allocation" [ref=e526]:
+                - generic [ref=e527]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e528]:
+                - generic [ref=e529]: $32,146.00
+              - gridcell "is template cell column header PNVW" [ref=e530]:
+                - generic [ref=e531]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e532]:
+                - generic [ref=e533]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e534]
+              - gridcell "is template cell column header Reserved Status" [ref=e535]
+              - gridcell "is template cell column header Actions" [ref=e536]:
+                - button "Actions" [ref=e537] [cursor=pointer]:
+                  - generic [ref=e538] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e539]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e540]:
+                - generic [ref=e541]:
+                  - img "window-sticker" [ref=e543] [cursor=pointer]
+                  - generic [ref=e544] [cursor=pointer]: SH287671
+              - gridcell "is template cell column header Model" [ref=e545]:
+                - generic [ref=e546]: SRB13
+                - generic [ref=e547]: 2025 Crosstrek 5D 2.5L CVT - Premium
+              - gridcell "is template cell column header Color" [ref=e548]:
+                - generic [ref=e549]: SP2
+                - generic [ref=e550]: Sapphire Blue Pearl
+              - gridcell "is template cell column header Edit Stock#" [ref=e551]:
+                - generic [ref=e552]:
+                  - generic [ref=e554]: 76980T
+                  - button "Edit Stock" [ref=e556] [cursor=pointer]:
+                    - generic [ref=e557] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e558]
+              - gridcell "is template cell column header Allocation" [ref=e559]:
+                - generic [ref=e560]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e561]:
+                - generic [ref=e562]: $29,901.00
+              - gridcell "is template cell column header PNVW" [ref=e563]:
+                - generic [ref=e564]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e565]:
+                - generic [ref=e566]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e567]
+              - gridcell "is template cell column header Reserved Status" [ref=e568]
+              - gridcell "is template cell column header Actions" [ref=e569]:
+                - button "Actions" [ref=e570] [cursor=pointer]:
+                  - generic [ref=e571] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e572]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e573]:
+                - generic [ref=e574]:
+                  - img "window-sticker" [ref=e576] [cursor=pointer]
+                  - generic [ref=e577] [cursor=pointer]: SH295544
+              - gridcell "is template cell column header Model" [ref=e578]:
+                - generic [ref=e579]: SRB14
+                - generic [ref=e580]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e581]:
+                - generic [ref=e582]: MG2
+                - generic [ref=e583]: Magnetite Gray Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e584]:
+                - generic [ref=e585]:
+                  - generic [ref=e587]: 77060T
+                  - button "Edit Stock" [ref=e589] [cursor=pointer]:
+                    - generic [ref=e590] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e591]
+              - gridcell "is template cell column header Allocation" [ref=e592]:
+                - generic [ref=e593]: "1273"
+              - gridcell "is template cell column header MSRP" [ref=e594]:
+                - generic [ref=e595]: $32,244.00
+              - gridcell "is template cell column header PNVW" [ref=e596]:
+                - generic [ref=e597]: $497.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e598]:
+                - generic [ref=e599]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e600]
+              - gridcell "is template cell column header Reserved Status" [ref=e601]
+              - gridcell "is template cell column header Actions" [ref=e602]:
+                - button "Actions" [ref=e603] [cursor=pointer]:
+                  - generic [ref=e604] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e605]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e606]:
+                - generic [ref=e607]:
+                  - img "window-sticker" [ref=e609] [cursor=pointer]
+                  - generic [ref=e610] [cursor=pointer]: SH277408
+              - gridcell "is template cell column header Model" [ref=e611]:
+                - generic [ref=e612]: SRB14
+                - generic [ref=e613]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e614]:
+                - generic [ref=e615]: IS2
+                - generic [ref=e616]: Ice Silver Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e617]:
+                - generic [ref=e618]:
+                  - generic [ref=e620]: 76890T
+                  - button "Edit Stock" [ref=e622] [cursor=pointer]:
+                    - generic [ref=e623] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e624]
+              - gridcell "is template cell column header Allocation" [ref=e625]:
+                - generic [ref=e626]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e627]:
+                - generic [ref=e628]: $32,146.00
+              - gridcell "is template cell column header PNVW" [ref=e629]:
+                - generic [ref=e630]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e631]:
+                - generic [ref=e632]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e633]
+              - gridcell "is template cell column header Reserved Status" [ref=e634]
+              - gridcell "is template cell column header Actions" [ref=e635]:
+                - button "Actions" [ref=e636] [cursor=pointer]:
+                  - generic [ref=e637] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e638]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e639]:
+                - generic [ref=e640]:
+                  - img "window-sticker" [ref=e642] [cursor=pointer]
+                  - generic [ref=e643] [cursor=pointer]: SH298310
+              - gridcell "is template cell column header Model" [ref=e644]:
+                - generic [ref=e645]: SRB14
+                - generic [ref=e646]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e647]:
+                - generic [ref=e648]: IS2
+                - generic [ref=e649]: Ice Silver Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e650]:
+                - generic [ref=e651]:
+                  - generic [ref=e653]: 77034T
+                  - button "Edit Stock" [ref=e655] [cursor=pointer]:
+                    - generic [ref=e656] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e657]
+              - gridcell "is template cell column header Allocation" [ref=e658]:
+                - generic [ref=e659]: "1273"
+              - gridcell "is template cell column header MSRP" [ref=e660]:
+                - generic [ref=e661]: $32,244.00
+              - gridcell "is template cell column header PNVW" [ref=e662]:
+                - generic [ref=e663]: $497.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e664]:
+                - generic [ref=e665]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e666]
+              - gridcell "is template cell column header Reserved Status" [ref=e667]
+              - gridcell "is template cell column header Actions" [ref=e668]:
+                - button "Actions" [ref=e669] [cursor=pointer]:
+                  - generic [ref=e670] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e671]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e672]:
+                - generic [ref=e673]:
+                  - img "window-sticker" [ref=e675] [cursor=pointer]
+                  - generic [ref=e676] [cursor=pointer]: SH298338
+              - gridcell "is template cell column header Model" [ref=e677]:
+                - generic [ref=e678]: SRB13
+                - generic [ref=e679]: 2025 Crosstrek 5D 2.5L CVT - Premium
+              - gridcell "is template cell column header Color" [ref=e680]:
+                - generic [ref=e681]: MG2
+                - generic [ref=e682]: Magnetite Gray Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e683]:
+                - generic [ref=e684]:
+                  - generic [ref=e686]: 77035T
+                  - button "Edit Stock" [ref=e688] [cursor=pointer]:
+                    - generic [ref=e689] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e690]
+              - gridcell "is template cell column header Allocation" [ref=e691]:
+                - generic [ref=e692]: "1273"
+              - gridcell "is template cell column header MSRP" [ref=e693]:
+                - generic [ref=e694]: $29,999.00
+              - gridcell "is template cell column header PNVW" [ref=e695]:
+                - generic [ref=e696]: $497.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e697]:
+                - generic [ref=e698]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e699]
+              - gridcell "is template cell column header Reserved Status" [ref=e700]
+              - gridcell "is template cell column header Actions" [ref=e701]:
+                - button "Actions" [ref=e702] [cursor=pointer]:
+                  - generic [ref=e703] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e704]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e705]:
+                - generic [ref=e706]:
+                  - img "window-sticker" [ref=e708] [cursor=pointer]
+                  - generic [ref=e709] [cursor=pointer]: S8276333
+              - gridcell "is template cell column header Model" [ref=e710]:
+                - generic [ref=e711]: SRB14
+                - generic [ref=e712]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e713]:
+                - generic [ref=e714]: W3P
+                - generic [ref=e715]: Crystal White Pearl
+              - gridcell "is template cell column header Edit Stock#" [ref=e716]:
+                - generic [ref=e717]:
+                  - generic [ref=e719]: 76878T
+                  - button "Edit Stock" [ref=e721] [cursor=pointer]:
+                    - generic [ref=e722] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e723]
+              - gridcell "is template cell column header Allocation" [ref=e724]:
+                - generic [ref=e725]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e726]:
+                - generic [ref=e727]: $32,146.00
+              - gridcell "is template cell column header PNVW" [ref=e728]:
+                - generic [ref=e729]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e730]:
+                - generic [ref=e731]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e732]
+              - gridcell "is template cell column header Reserved Status" [ref=e733]
+              - gridcell "is template cell column header Actions" [ref=e734]:
+                - button "Actions" [ref=e735] [cursor=pointer]:
+                  - generic [ref=e736] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e737]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e738]:
+                - generic [ref=e739]:
+                  - img "window-sticker" [ref=e741] [cursor=pointer]
+                  - generic [ref=e742] [cursor=pointer]: S8279323
+              - gridcell "is template cell column header Model" [ref=e743]:
+                - generic [ref=e744]: SRB14
+                - generic [ref=e745]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e746]:
+                - generic [ref=e747]: WH2
+                - generic [ref=e748]: Crystal White Pearl
+              - gridcell "is template cell column header Edit Stock#" [ref=e749]:
+                - generic [ref=e750]:
+                  - generic [ref=e752]: 76901T
+                  - button "Edit Stock" [ref=e754] [cursor=pointer]:
+                    - generic [ref=e755] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e756]
+              - gridcell "is template cell column header Allocation" [ref=e757]:
+                - generic [ref=e758]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e759]:
+                - generic [ref=e760]: $32,146.00
+              - gridcell "is template cell column header PNVW" [ref=e761]:
+                - generic [ref=e762]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e763]:
+                - generic [ref=e764]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e765]
+              - gridcell "is template cell column header Reserved Status" [ref=e766]
+              - gridcell "is template cell column header Actions" [ref=e767]:
+                - button "Actions" [ref=e768] [cursor=pointer]:
+                  - generic [ref=e769] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e770]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e771]:
+                - generic [ref=e772]:
+                  - img "window-sticker" [ref=e774] [cursor=pointer]
+                  - generic [ref=e775] [cursor=pointer]: S8295327
+              - gridcell "is template cell column header Model" [ref=e776]:
+                - generic [ref=e777]: SRB14
+                - generic [ref=e778]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e779]:
+                - generic [ref=e780]: CB4
+                - generic [ref=e781]: Crystal Black Silica
+              - gridcell "is template cell column header Edit Stock#" [ref=e782]:
+                - generic [ref=e783]:
+                  - generic [ref=e785]: 77068T
+                  - button "Edit Stock" [ref=e787] [cursor=pointer]:
+                    - generic [ref=e788] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e789]
+              - gridcell "is template cell column header Allocation" [ref=e790]:
+                - generic [ref=e791]: "1273"
+              - gridcell "is template cell column header MSRP" [ref=e792]:
+                - generic [ref=e793]: $32,244.00
+              - gridcell "is template cell column header PNVW" [ref=e794]:
+                - generic [ref=e795]: $497.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e796]:
+                - generic [ref=e797]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e798]
+              - gridcell "is template cell column header Reserved Status" [ref=e799]
+              - gridcell "is template cell column header Actions" [ref=e800]:
+                - button "Actions" [ref=e801] [cursor=pointer]:
+                  - generic [ref=e802] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e803]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e804]:
+                - generic [ref=e805]:
+                  - img "window-sticker" [ref=e807] [cursor=pointer]
+                  - generic [ref=e808] [cursor=pointer]: SH289723
+              - gridcell "is template cell column header Model" [ref=e809]:
+                - generic [ref=e810]: SRB14
+                - generic [ref=e811]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e812]:
+                - generic [ref=e813]: IS2
+                - generic [ref=e814]: Ice Silver Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e815]:
+                - generic [ref=e816]:
+                  - generic [ref=e818]: 76975T
+                  - button "Edit Stock" [ref=e820] [cursor=pointer]:
+                    - generic [ref=e821] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e822]
+              - gridcell "is template cell column header Allocation" [ref=e823]:
+                - generic [ref=e824]: "1273"
+              - gridcell "is template cell column header MSRP" [ref=e825]:
+                - generic [ref=e826]: $32,244.00
+              - gridcell "is template cell column header PNVW" [ref=e827]:
+                - generic [ref=e828]: $497.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e829]:
+                - generic [ref=e830]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e831]
+              - gridcell "is template cell column header Reserved Status" [ref=e832]
+              - gridcell "is template cell column header Actions" [ref=e833]:
+                - button "Actions" [ref=e834] [cursor=pointer]:
+                  - generic [ref=e835] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e836]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e837]:
+                - generic [ref=e838]:
+                  - img "window-sticker" [ref=e840] [cursor=pointer]
+                  - generic [ref=e841] [cursor=pointer]: SH289818
+              - gridcell "is template cell column header Model" [ref=e842]:
+                - generic [ref=e843]: SRB14
+                - generic [ref=e844]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e845]:
+                - generic [ref=e846]: PR1
+                - generic [ref=e847]: Pure Red
+              - gridcell "is template cell column header Edit Stock#" [ref=e848]:
+                - generic [ref=e849]:
+                  - generic [ref=e851]: 77002T
+                  - button "Edit Stock" [ref=e853] [cursor=pointer]:
+                    - generic [ref=e854] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e855]
+              - gridcell "is template cell column header Allocation" [ref=e856]:
+                - generic [ref=e857]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e858]:
+                - generic [ref=e859]: $31,628.00
+              - gridcell "is template cell column header PNVW" [ref=e860]:
+                - generic [ref=e861]: $99.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e862]:
+                - generic [ref=e863]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e864]
+              - gridcell "is template cell column header Reserved Status" [ref=e865]
+              - gridcell "is template cell column header Actions" [ref=e866]:
+                - button "Actions" [ref=e867] [cursor=pointer]:
+                  - generic [ref=e868] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e869]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e870]:
+                - generic [ref=e871]:
+                  - img "window-sticker" [ref=e873] [cursor=pointer]
+                  - generic [ref=e874] [cursor=pointer]: SH273448
+              - gridcell "is template cell column header Model" [ref=e875]:
+                - generic [ref=e876]: SRB14
+                - generic [ref=e877]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e878]:
+                - generic [ref=e879]: WH2
+                - generic [ref=e880]: Crystal White Pearl
+              - gridcell "is template cell column header Edit Stock#" [ref=e881]:
+                - generic [ref=e882]:
+                  - generic [ref=e883]:
+                    - generic [ref=e884]: 76873SLD
+                    - generic [ref=e885]: NOT SOLD
+                  - button "Edit Stock" [ref=e887] [cursor=pointer]:
+                    - generic [ref=e888] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e889]
+              - gridcell "is template cell column header Allocation" [ref=e890]:
+                - generic [ref=e891]: "1269"
+              - gridcell "is template cell column header MSRP" [ref=e892]:
+                - generic [ref=e893]: $31,765.00
+              - gridcell "is template cell column header PNVW" [ref=e894]:
+                - generic [ref=e895]: $673.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e896]:
+                - generic [ref=e897]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e898]
+              - gridcell "is template cell column header Reserved Status" [ref=e899]
+              - gridcell "is template cell column header Actions" [ref=e900]:
+                - button "Actions" [ref=e901] [cursor=pointer]:
+                  - generic [ref=e902] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e903]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e904]:
+                - generic [ref=e905]:
+                  - img "window-sticker" [ref=e907] [cursor=pointer]
+                  - generic [ref=e908] [cursor=pointer]: SH280643
+              - gridcell "is template cell column header Model" [ref=e909]:
+                - generic [ref=e910]: SRB14
+                - generic [ref=e911]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e912]:
+                - generic [ref=e913]: OF1
+                - generic [ref=e914]: Offshore Blue Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e915]:
+                - generic [ref=e916]:
+                  - generic [ref=e918]: 76921T
+                  - button "Edit Stock" [ref=e920] [cursor=pointer]:
+                    - generic [ref=e921] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e922]
+              - gridcell "is template cell column header Allocation" [ref=e923]:
+                - generic [ref=e924]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e925]:
+                - generic [ref=e926]: $32,541.00
+              - gridcell "is template cell column header PNVW" [ref=e927]:
+                - generic [ref=e928]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e929]:
+                - generic [ref=e930]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e931]
+              - gridcell "is template cell column header Reserved Status" [ref=e932]
+              - gridcell "is template cell column header Actions" [ref=e933]:
+                - button "Actions" [ref=e934] [cursor=pointer]:
+                  - generic [ref=e935] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e936]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e937]:
+                - generic [ref=e938]:
+                  - img "window-sticker" [ref=e940] [cursor=pointer]
+                  - generic [ref=e941] [cursor=pointer]: SH294736
+              - gridcell "is template cell column header Model" [ref=e942]:
+                - generic [ref=e943]: SRB14
+                - generic [ref=e944]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e945]:
+                - generic [ref=e946]: MG9
+                - generic [ref=e947]: Magnetite Gray Metallic
+              - gridcell "is template cell column header Edit Stock#" [ref=e948]:
+                - generic [ref=e949]:
+                  - generic [ref=e951]: 77033T
+                  - button "Edit Stock" [ref=e953] [cursor=pointer]:
+                    - generic [ref=e954] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e955]
+              - gridcell "is template cell column header Allocation" [ref=e956]:
+                - generic [ref=e957]: "1273"
+              - gridcell "is template cell column header MSRP" [ref=e958]:
+                - generic [ref=e959]: $32,244.00
+              - gridcell "is template cell column header PNVW" [ref=e960]:
+                - generic [ref=e961]: $497.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e962]:
+                - generic [ref=e963]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e964]
+              - gridcell "is template cell column header Reserved Status" [ref=e965]
+              - gridcell "is template cell column header Actions" [ref=e966]:
+                - button "Actions" [ref=e967] [cursor=pointer]:
+                  - generic [ref=e968] [cursor=pointer]: 
+            - row "is template cell column header Window Sticker & VIN/Invoice is template cell column header Model is template cell column header Color is template cell column header Edit Stock# is template cell column header Retailer ETA is template cell column header Allocation is template cell column header MSRP is template cell column header PNVW is template cell column header Vehicle Status is template cell column header At Port is template cell column header Reserved Status is template cell column header Actions" [ref=e969]:
+              - gridcell "is template cell column header Window Sticker & VIN/Invoice" [ref=e970]:
+                - generic [ref=e971]:
+                  - img "window-sticker" [ref=e973] [cursor=pointer]
+                  - generic [ref=e974] [cursor=pointer]: SH289786
+              - gridcell "is template cell column header Model" [ref=e975]:
+                - generic [ref=e976]: SRB14
+                - generic [ref=e977]: 2025 Crosstrek 5D 2.5L CVT - Premium w/ All Weather Pkg
+              - gridcell "is template cell column header Color" [ref=e978]:
+                - generic [ref=e979]: SP2
+                - generic [ref=e980]: Sapphire Blue Pearl
+              - gridcell "is template cell column header Edit Stock#" [ref=e981]:
+                - generic [ref=e982]:
+                  - generic [ref=e984]: 77000T
+                  - button "Edit Stock" [ref=e986] [cursor=pointer]:
+                    - generic [ref=e987] [cursor=pointer]: 
+              - gridcell "is template cell column header Retailer ETA" [ref=e988]
+              - gridcell "is template cell column header Allocation" [ref=e989]:
+                - generic [ref=e990]: "1272"
+              - gridcell "is template cell column header MSRP" [ref=e991]:
+                - generic [ref=e992]: $32,146.00
+              - gridcell "is template cell column header PNVW" [ref=e993]:
+                - generic [ref=e994]: $434.00
+              - gridcell "is template cell column header Vehicle Status" [ref=e995]:
+                - generic [ref=e996]: On Lot
+              - gridcell "is template cell column header At Port" [ref=e997]
+              - gridcell "is template cell column header Reserved Status" [ref=e998]
+              - gridcell "is template cell column header Actions" [ref=e999]:
+                - button "Actions" [ref=e1000] [cursor=pointer]:
+                  - generic [ref=e1001] [cursor=pointer]: 
+          - generic [ref=e1002]:
+            - text:  
+            - navigation [ref=e1003]:
+              - button [ref=e1004] [cursor=pointer]: 
+              - button [ref=e1005] [cursor=pointer]: 
+              - link "Page 1 of 1 Pages" [ref=e1008] [cursor=pointer]:
+                - /url: "#"
+                - text: "1"
+              - button [ref=e1009] [cursor=pointer]: 
+              - button [ref=e1010] [cursor=pointer]: 
+            - generic [ref=e1011]:
+              - generic [ref=e1012]: 1 of 1 pages
+              - generic [ref=e1013]: (21 items)
+            - text:  
+          - text:           
+          - textbox "clipboard" [ref=e1014]
+          - textbox "clipboard" [ref=e1015]
+          - textbox "clipboard" [ref=e1016]
+          - textbox "clipboard" [ref=e1017]
+      - text: 
+  - navigation "Side Navigation" [ref=e1018]:
+    - list "main navigation list" [ref=e1019]:
+      - listitem "Home" [ref=e1020]:
+        - img "Home" [ref=e1022] [cursor=pointer]
+      - listitem "Vehicles" [ref=e1023]:
+        - img "Vehicles" [ref=e1025] [cursor=pointer]
+      - listitem "Allocation" [ref=e1026]:
+        - img "Allocation" [ref=e1028] [cursor=pointer]
+      - listitem "Parts" [ref=e1029]:
+        - img "Parts" [ref=e1031] [cursor=pointer]
+      - listitem "Sales" [ref=e1032]:
+        - img "Sales" [ref=e1034] [cursor=pointer]
+      - listitem "Boston Port" [ref=e1035]:
+        - img "Boston Port" [ref=e1037] [cursor=pointer]
+      - listitem "Reports" [ref=e1038]:
+        - img "Reports" [ref=e1040] [cursor=pointer]
+      - listitem "Admin & Finance" [ref=e1041]:
+        - img "Admin & Finance" [ref=e1043] [cursor=pointer]
+      - listitem "Miscellaneous" [ref=e1044]:
+        - img "Miscellaneous" [ref=e1046] [cursor=pointer]
+    - list "Help and Feedback list" [ref=e1047]:
+      - listitem "Help" [ref=e1048]:
+        - link "Help" [ref=e1049] [cursor=pointer]:
+          - /url: "#"
+          - img "Help" [ref=e1050] [cursor=pointer]
+      - listitem "Feedback" [ref=e1051]:
+        - img "Feedback" [ref=e1053] [cursor=pointer]
+```

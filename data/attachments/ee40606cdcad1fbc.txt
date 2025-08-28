@@ -1,0 +1,11 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "Total Vehicles (943)" with count: 943
+clicked on header to sort
+comparing values: L3413397 & L3454270
+comparing values: L3454270 & S3435793
+comparing values: S3435793 & S3436960
+Window Sticker & VIN/Invoice column is sorted in ascending order.
+Logged out successfully

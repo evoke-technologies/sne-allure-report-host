@@ -1,0 +1,292 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic:
+    - banner [ref=e5]:
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - button "Navigation" [ref=e8] [cursor=pointer]:
+            - img "Navigation" [ref=e9] [cursor=pointer]
+        - listitem [ref=e10]:
+          - img "Subaru of New England" [ref=e11]
+        - listitem [ref=e12]:
+          - link "location icon Mitchell Subaru Canton, CT 06019" [ref=e13] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - img "location icon" [ref=e14] [cursor=pointer]
+            - generic [ref=e15] [cursor=pointer]:
+              - paragraph [ref=e16] [cursor=pointer]: Mitchell Subaru
+              - paragraph [ref=e17] [cursor=pointer]: Canton, CT 06019
+      - list [ref=e18]:
+        - listitem
+        - listitem [ref=e19]:
+          - img "subarunet" [ref=e20]
+        - listitem [ref=e21]:
+          - img "subaru logo" [ref=e22]
+        - listitem [ref=e23]:
+          - generic [ref=e24]: 
+    - navigation "Side Navigation" [ref=e25]:
+      - list "main navigation list" [ref=e26]:
+        - listitem "Home" [ref=e27]:
+          - img "Home" [ref=e29] [cursor=pointer]
+        - listitem "Vehicles" [ref=e30]:
+          - img "Vehicles" [ref=e32] [cursor=pointer]
+        - listitem "Allocation" [ref=e33]:
+          - img "Allocation" [ref=e35] [cursor=pointer]
+        - listitem "Parts" [ref=e36]:
+          - img "Parts" [ref=e38] [cursor=pointer]
+        - listitem "Sales" [ref=e39]:
+          - img "Sales" [ref=e41] [cursor=pointer]
+        - listitem "Boston Port" [ref=e42]:
+          - img "Boston Port" [ref=e44] [cursor=pointer]
+        - listitem "Reports" [ref=e45]:
+          - img "Reports" [ref=e47] [cursor=pointer]
+        - listitem "Admin & Finance" [ref=e48]:
+          - img "Admin & Finance" [ref=e50] [cursor=pointer]
+        - listitem "Miscellaneous" [ref=e51]:
+          - img "Miscellaneous" [ref=e53] [cursor=pointer]
+      - list "Help and Feedback list" [ref=e54]:
+        - listitem "Help" [ref=e55]:
+          - link "Help" [ref=e56] [cursor=pointer]:
+            - /url: "#"
+            - img "Help" [ref=e57] [cursor=pointer]
+        - listitem "Feedback" [ref=e58]:
+          - img "Feedback" [ref=e60] [cursor=pointer]
+    - text:                     
+  - region "Vehicle Inventory" [ref=e62]:
+    - heading "Vehicle Inventory" [level=1] [ref=e64]
+    - navigation "Module Navigation" [ref=e65]:
+      - list "Module Navigation" [ref=e66]:
+        - listitem [ref=e67]:
+          - generic [ref=e68] [cursor=pointer]: Vehicle Inventory
+        - listitem [ref=e69]:
+          - generic [ref=e70] [cursor=pointer]: Vehicle Inquiry
+        - listitem [ref=e71]:
+          - generic [ref=e72] [cursor=pointer]: Vehicle Locator
+        - listitem [ref=e73]:
+          - generic [ref=e74] [cursor=pointer]: Build-A-Car
+        - listitem [ref=e75]:
+          - generic [ref=e76] [cursor=pointer]: Retailer Delivery Records
+        - listitem [ref=e77]:
+          - generic [ref=e78] [cursor=pointer]: Transfer
+        - listitem [ref=e79]:
+          - generic [ref=e80] [cursor=pointer]: Reports
+  - generic [ref=e81]:
+    - navigation "Breadcrumb Navigation" [ref=e84]:
+      - list "Breadcrumb Navigation" [ref=e85]:
+        - listitem [ref=e86]:
+          - generic [ref=e87] [cursor=pointer]: 
+        - listitem [ref=e88]:
+          - text: /
+          - generic [ref=e89] [cursor=pointer]: Vehicle
+        - listitem [ref=e90]:
+          - text: /
+          - generic [ref=e91]: Vehicle Inventory
+    - generic [ref=e92]:
+      - generic [ref=e93]:
+        - generic [ref=e94]:
+          - list [ref=e95]:
+            - listitem [ref=e96]:
+              - tab "Total Vehicles (943)" [ref=e97] [cursor=pointer]
+            - listitem [ref=e98]:
+              - tab "On Lot (104)" [ref=e99] [cursor=pointer]
+            - listitem [ref=e100]:
+              - tab "On Order (740)" [ref=e101] [cursor=pointer]
+            - listitem [ref=e102]:
+              - tab "In Transit (99)" [ref=e103] [cursor=pointer]
+            - listitem [ref=e104]:
+              - tab "Sold Vehicles (3)" [ref=e105] [cursor=pointer]
+            - listitem [ref=e106]:
+              - tab "Buy a Demo (0)" [ref=e107] [cursor=pointer]
+            - listitem [ref=e108]:
+              - tab "Mark as SSLP" [ref=e109] [cursor=pointer]
+            - listitem [ref=e110]:
+              - tab "Hold at Port (0)" [ref=e111] [cursor=pointer]
+          - generic [ref=e112]:
+            - text:          
+            - tabpanel [ref=e113]:
+              - generic [ref=e114]:
+                - toolbar [ref=e117]:
+                  - generic [ref=e118]:
+                    - generic [ref=e119] [cursor=pointer]:
+                      - generic:
+                        - img "Ascent"
+                        - generic:
+                          - generic: Ascent
+                          - generic: (0)
+                    - generic [ref=e120] [cursor=pointer]:
+                      - generic:
+                        - img "BRZ"
+                        - generic:
+                          - generic: BRZ
+                          - generic: (0)
+                    - generic [ref=e122] [cursor=pointer]:
+                      - img "Crosstrek" [ref=e123] [cursor=pointer]
+                      - generic [ref=e124] [cursor=pointer]:
+                        - generic [ref=e125] [cursor=pointer]: Crosstrek
+                        - generic [ref=e126] [cursor=pointer]: (21)
+                    - generic [ref=e128] [cursor=pointer]:
+                      - img "Forester" [ref=e129] [cursor=pointer]
+                      - generic [ref=e130] [cursor=pointer]:
+                        - generic [ref=e131] [cursor=pointer]: Forester
+                        - generic [ref=e132] [cursor=pointer]: (23)
+                    - generic [ref=e134] [cursor=pointer]:
+                      - img "Impreza" [ref=e135] [cursor=pointer]
+                      - generic [ref=e136] [cursor=pointer]:
+                        - generic [ref=e137] [cursor=pointer]: Impreza
+                        - generic [ref=e138] [cursor=pointer]: (18)
+                    - generic [ref=e140] [cursor=pointer]:
+                      - img "Legacy" [ref=e141] [cursor=pointer]
+                      - generic [ref=e142] [cursor=pointer]:
+                        - generic [ref=e143] [cursor=pointer]: Legacy
+                        - generic [ref=e144] [cursor=pointer]: (18)
+                    - generic [ref=e146] [cursor=pointer]:
+                      - img "Outback" [ref=e147] [cursor=pointer]
+                      - generic [ref=e148] [cursor=pointer]:
+                        - generic [ref=e149] [cursor=pointer]: Outback
+                        - generic [ref=e150] [cursor=pointer]: (22)
+                    - generic [ref=e151] [cursor=pointer]:
+                      - generic:
+                        - img "Solterra"
+                        - generic:
+                          - generic: Solterra
+                          - generic: (0)
+                    - generic [ref=e153] [cursor=pointer]:
+                      - img "WRX" [ref=e154] [cursor=pointer]
+                      - generic [ref=e155] [cursor=pointer]:
+                        - generic [ref=e156] [cursor=pointer]: WRX
+                        - generic [ref=e157] [cursor=pointer]: (2)
+                - list [ref=e158]:
+                  - listitem [ref=e159]:
+                    - button "Filters" [ref=e160] [cursor=pointer]:
+                      - img "Filter" [ref=e161] [cursor=pointer]
+                      - generic [ref=e162] [cursor=pointer]: Filters
+                  - listitem [ref=e163]:
+                    - generic [ref=e166]:
+                      - text: 
+                      - generic [ref=e167]:
+                        - generic:
+                          - combobox "multiselect"
+                        - text: 
+                        - generic [ref=e168] [cursor=pointer]: 
+                  - listitem [ref=e169]:
+                    - generic [ref=e172]:
+                      - text: 
+                      - generic [ref=e173]:
+                        - generic:
+                          - combobox "multiselect"
+                        - text: 
+                        - generic [ref=e174] [cursor=pointer]: 
+                  - listitem [ref=e175]:
+                    - generic [ref=e178]:
+                      - text: 
+                      - generic [ref=e179]:
+                        - generic:
+                          - combobox "multiselect"
+                        - text: 
+                        - generic [ref=e180] [cursor=pointer]: 
+                  - listitem [ref=e181]:
+                    - combobox "dropdownlist" [ref=e184] [cursor=pointer]:
+                      - combobox "dropdownlist"
+                      - generic [ref=e185] [cursor=pointer]: 
+              - heading "On Lot Vehicle List" [level=3] [ref=e187]:
+                - generic [ref=e188]: On Lot
+                - generic [ref=e189]: Vehicle
+                - text: List
+            - text:                                                            
+        - grid [ref=e192]:
+          - generic [ref=e195]:
+            - generic [ref=e196]:
+              - combobox "Select page size" [ref=e198]:
+                - option "10 rows"
+                - option "25 rows"
+                - option "50 rows"
+                - option "100 rows"
+                - option "All" [selected]
+              - generic [ref=e199]:
+                - button "search" [ref=e200] [cursor=pointer]:
+                  - img "search-icon" [ref=e201] [cursor=pointer]
+                - textbox "search" [active] [ref=e202]: Ascent
+                - generic "close search": 
+            - generic [ref=e203]:
+              - button "Edit Columns" [ref=e205] [cursor=pointer]:
+                - generic [ref=e206] [cursor=pointer]: 
+                - generic [ref=e207] [cursor=pointer]: Edit Columns
+              - button "Export" [ref=e209] [cursor=pointer]:
+                - generic [ref=e210] [cursor=pointer]: 
+                - generic [ref=e211] [cursor=pointer]: Export
+              - button "Print" [ref=e212] [cursor=pointer]:
+                - generic [ref=e213] [cursor=pointer]: 
+                - generic [ref=e214] [cursor=pointer]: Print
+          - rowgroup [ref=e229]:
+            - row "Window Sticker & VIN/Invoice Model Color Edit Stock# Retailer ETA Allocation MSRP PNVW Vehicle Status Reserved Status Actions" [ref=e230]:
+              - columnheader "Window Sticker & VIN/Invoice" [ref=e231] [cursor=pointer]:
+                - generic [ref=e233] [cursor=pointer]: Window Sticker & VIN/Invoice
+              - columnheader "Model" [ref=e236] [cursor=pointer]:
+                - generic [ref=e238] [cursor=pointer]: Model
+              - columnheader "Color" [ref=e241] [cursor=pointer]:
+                - generic [ref=e243] [cursor=pointer]: Color
+              - columnheader "Edit Stock#" [ref=e246] [cursor=pointer]:
+                - generic [ref=e248] [cursor=pointer]: Edit Stock#
+              - columnheader "Retailer ETA" [ref=e251] [cursor=pointer]:
+                - generic [ref=e253] [cursor=pointer]: Retailer ETA
+              - columnheader "Allocation" [ref=e256] [cursor=pointer]:
+                - generic [ref=e258] [cursor=pointer]: Allocation
+              - columnheader "MSRP" [ref=e261] [cursor=pointer]:
+                - generic [ref=e263] [cursor=pointer]: MSRP
+              - columnheader "PNVW" [ref=e266] [cursor=pointer]:
+                - generic [ref=e268] [cursor=pointer]: PNVW
+              - columnheader "Vehicle Status" [ref=e271] [cursor=pointer]:
+                - generic [ref=e273] [cursor=pointer]: Vehicle Status
+              - columnheader "Reserved Status" [ref=e276] [cursor=pointer]:
+                - generic [ref=e278] [cursor=pointer]: Reserved Status
+              - columnheader "Actions" [ref=e281]:
+                - generic [ref=e283]: Actions
+          - rowgroup [ref=e300]:
+            - row "No records to display" [ref=e301]
+          - generic [ref=e302]:
+            - text:  
+            - navigation [ref=e303]:
+              - button " No records to display" [ref=e304] [cursor=pointer]: 
+              - button " No records to display" [ref=e305] [cursor=pointer]: 
+              - button " No records to display" [ref=e306] [cursor=pointer]: 
+              - button " No records to display" [ref=e307] [cursor=pointer]: 
+            - generic [ref=e308]:
+              - generic [ref=e309]: 0 of 0 pages
+              - generic [ref=e310]: (0 item)
+            - text:  
+          - text:          
+          - textbox "clipboard" [ref=e311]
+          - textbox "clipboard" [ref=e312]
+          - textbox "clipboard" [ref=e313]
+          - textbox "clipboard" [ref=e314]
+          - textbox "clipboard" [ref=e315]
+      - text: 
+  - navigation "Side Navigation" [ref=e316]:
+    - list "main navigation list" [ref=e317]:
+      - listitem "Home" [ref=e318]:
+        - img "Home" [ref=e320] [cursor=pointer]
+      - listitem "Vehicles" [ref=e321]:
+        - img "Vehicles" [ref=e323] [cursor=pointer]
+      - listitem "Allocation" [ref=e324]:
+        - img "Allocation" [ref=e326] [cursor=pointer]
+      - listitem "Parts" [ref=e327]:
+        - img "Parts" [ref=e329] [cursor=pointer]
+      - listitem "Sales" [ref=e330]:
+        - img "Sales" [ref=e332] [cursor=pointer]
+      - listitem "Boston Port" [ref=e333]:
+        - img "Boston Port" [ref=e335] [cursor=pointer]
+      - listitem "Reports" [ref=e336]:
+        - img "Reports" [ref=e338] [cursor=pointer]
+      - listitem "Admin & Finance" [ref=e339]:
+        - img "Admin & Finance" [ref=e341] [cursor=pointer]
+      - listitem "Miscellaneous" [ref=e342]:
+        - img "Miscellaneous" [ref=e344] [cursor=pointer]
+    - list "Help and Feedback list" [ref=e345]:
+      - listitem "Help" [ref=e346]:
+        - link "Help" [ref=e347] [cursor=pointer]:
+          - /url: "#"
+          - img "Help" [ref=e348] [cursor=pointer]
+      - listitem "Feedback" [ref=e349]:
+        - img "Feedback" [ref=e351] [cursor=pointer]
+```

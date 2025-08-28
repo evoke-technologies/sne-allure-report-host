@@ -1,0 +1,20 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "In Transit (99)" with count: 99
+Clicked dropdown icon at index 3
+Selected Trim option text: "SCL32 - Ascent 2.4T 7-Pass - Limited"
+Extracted Trim Code: SCL32
+Clicked Apply button for Trim filter
+inside active model info method, model: Ascent count: 1
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 3
+Color popup is now visible
+Selected Color: SCL32 - Crimson Read Pearl
+Color filter applied
+inside active model info method, model: Ascent count: 1
+Model count changed: 1 → undefined
+Clear Filters button hidden or reset after clearing filters
+All filters cleared successfully

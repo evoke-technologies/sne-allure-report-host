@@ -1,0 +1,55 @@
+Stay signed in prompt appeared and was handled
+ Subaru logo is visible. Login successful.
+Clicking nav option with label "Vehicles"
+Clicked nav option with label "Vehicles"
+Navigated to nav tab "On Lot (104)" with count: 104
+row count : 1
+Clicked dropdown icon at index 1
+Selected Trim option text: "SRB13 - Crosstrek 5D 2.5L CVT - Premium"
+Extracted Trim Code: SRB13
+Clicked Apply button for Trim filter
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: SH287671
+Row 1: SH289802
+Row 2: SH293784
+Row 3: SH298338
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: SH298338
+Row 1: SH293784
+Row 2: SH289802
+Row 3: SH287671
+"Window Sticker & VIN/Invoice" sorted descending.
+Row 1 model: "SRB13
+2025 Crosstrek 5D 2.5L CVT - Premium"
+Row 2 model: "SRB13
+2025 Crosstrek 5D 2.5L CVT - Premium"
+Row 3 model: "SRB13
+2025 Crosstrek 5D 2.5L CVT - Premium"
+Row 4 model: "SRB13
+2025 Crosstrek 5D 2.5L CVT - Premium"
+ All 4 rows matched model: "SRB13"
+inside active model info method, model: Crosstrek count: 4
+Attempting to open Color filter dropdown...
+Found 8 potential Color dropdown elements
+Clicked Color dropdown icon at index 1
+Color popup is now visible
+Selected Color: SRB13 - Ice Silver Metallic
+Color filter applied
+inside active model info method, model: Crosstrek count: 2
+Model count changed: 4 → undefined
+Color is selected and applied
+Ascending values for "Window Sticker & VIN/Invoice":
+Row 0: SH289802
+Row 1: SH293784
+"Window Sticker & VIN/Invoice" sorted ascending.
+Descending values for "Window Sticker & VIN/Invoice":
+Row 0: SH293784
+Row 1: SH289802
+"Window Sticker & VIN/Invoice" sorted descending.
+Row 1 color: "IS2
+Ice Silver Metallic"
+Row 2 color: "IS2
+Ice Silver Metallic"
+ All 2 rows matched color: "Ice Silver Metallic"
+"At Port" column is visible.
